@@ -1,6 +1,23 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <mymenuvideo>
 
+	
+	<myvideo
+	myid="1"
+	mytitle="Những phát minh thiên tài"
+	myurlthumb="http://i.ytimg.com/vi/Qv27h83Z6cE/mqdefault.jpg"
+	myvkey="PLiiBa13ZLFn07tL-urN2TSjEOXBaRu5qX"
+	mydesc="(7) VIDEOS HD-Thuyết minh"
+	/>
+	
+	<myvideo
+	myid="1"
+	mytitle="Nguồn năng lượng tương lai"
+	myurlthumb="http://i.ytimg.com/vi/Navw2S9UZdE/mqdefault.jpg"
+	myvkey="PLiiBa13ZLFn39B1XfKZkKEfBKtVp1tvkY"
+	mydesc="(4) VIDEOS HD-Thuyết minh"
+	/>
+	
 	<myvideo
 	myid="1"
 	mytitle="Trái Đất:Những bước chuyển mình kỳ diệu"
