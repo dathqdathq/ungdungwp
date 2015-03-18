@@ -1,10 +1,81 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <mymenuvideo>
 
+	<myvideo
+	myid="1"
+	mytitle="100 Khám phá vĩ đại của nhân loại"
+	myurlthumb="http://i.ytimg.com/vi/naEqGXEzpbs/mqdefault.jpg"
+	myvkey="PLiiBa13ZLFn2B6zF7PnX2_aOPibZ29Vvq"
+	mydesc="(7) VIDEOS HD-Thuyết minh"
+	/>
 
 	<myvideo
 	myid="1"
-	mytitle="Trái đất:Những hậu quả thảm khốc"
+	mytitle="Mỗi sợ hãi kinh hoàng"
+	myurlthumb="http://i.ytimg.com/vi/s9gAB3SsCnQ/mqdefault.jpg"
+	myvkey="PLiiBa13ZLFn2_o8RG4D9KRog8srsgQ1Uh"
+	mydesc="(14) VIDEOS HD-Thuyết minh"
+	/>
+
+	<myvideo
+	myid="1"
+	mytitle="Thiên nhiên nổi giận"
+	myurlthumb="http://i.ytimg.com/vi/3W_XQuWT_XI/mqdefault.jpg"
+	myvkey="PLiiBa13ZLFn1BEZ2l4rClunFJStINe5RC"
+	mydesc="(6) VIDEOS HD-Thuyết minh"
+	/>
+
+	<myvideo
+	myid="1"
+	mytitle="Tin tức cập nhật"
+	myurlthumb="http://i.ytimg.com/vi/wclsVVvct94/mqdefault.jpg"
+	myvkey="PLiiBa13ZLFn2_VpVzNNDL9gfjzOrh53t7"
+	mydesc="(13) VIDEOS HD-Thuyết minh"
+	/>
+
+	<myvideo
+	myid="1"
+	mytitle="Những thành phố huyền thoại"
+	myurlthumb="http://i.ytimg.com/vi/lCVQUl2pcng/mqdefault.jpg"
+	myvkey="PLiiBa13ZLFn3rpVcvq-L3Rnv98X0fPx6S"
+	mydesc="(6) VIDEOS HD-Thuyết minh"
+	/>
+
+	<myvideo
+	myid="1"
+	mytitle="Thiên nhiên hoang dã nước Nga"
+	myurlthumb="http://i.ytimg.com/vi/N5uzWekflVI/mqdefault.jpg"
+	myvkey="PLiiBa13ZLFn3R3Pg4408aVgcH1lD5gjwc"
+	mydesc="(5) VIDEOS HD-Thuyết minh"
+	/>
+
+	<myvideo
+	myid="1"
+	mytitle="Những dòng sông của thế giới"
+	myurlthumb="http://i.ytimg.com/vi/PrDuJJ18s5o/mqdefault.jpg"
+	myvkey="PLiiBa13ZLFn2ZvQawRTt3fyjoG6Q29YCB"
+	mydesc="(12) VIDEOS HD-Thuyết minh"
+	/>
+
+	<myvideo
+	myid="1"
+	mytitle="Những di sản của quá khứ"
+	myurlthumb="http://i.ytimg.com/vi/sdtytNR7HQI/mqdefault.jpg"
+	myvkey="PLiiBa13ZLFn1wZ0ebQZ--AJmivNyYHPzo"
+	mydesc="(18) VIDEOS HD-Thuyết minh"
+	/>
+
+	<myvideo
+	myid="1"
+	mytitle="Phong cảnh vũ trụ"
+	myurlthumb="http://i.ytimg.com/vi/KXOBUzK4oII/mqdefault.jpg"
+	myvkey="PLiiBa13ZLFn0MRyb3Mc_fSN8CEdCgYH8a"
+	mydesc="(11) VIDEOS HD-Thuyết minh"
+	/>
+
+	<myvideo
+	myid="1"
+	mytitle="Trái đất : Những hậu quả thảm khốc"
 	myurlthumb="http://i.ytimg.com/vi/vJ0Sg-Bw_To/mqdefault.jpg"
 	myvkey="PLiiBa13ZLFn1capPaClXNq4HFm1NFDRhz"
 	mydesc="(6) VIDEOS HD-Thuyết minh"
@@ -26,7 +97,6 @@
 	mydesc="(17) VIDEOS HD-Thuyết minh"
 	/>
 
-	
 	<myvideo
 	myid="1"
 	mytitle="Những phát minh thiên tài"
@@ -34,7 +104,7 @@
 	myvkey="PLiiBa13ZLFn07tL-urN2TSjEOXBaRu5qX"
 	mydesc="(7) VIDEOS HD-Thuyết minh"
 	/>
-	
+
 	<myvideo
 	myid="1"
 	mytitle="Nguồn năng lượng tương lai"
@@ -42,15 +112,15 @@
 	myvkey="PLiiBa13ZLFn39B1XfKZkKEfBKtVp1tvkY"
 	mydesc="(4) VIDEOS HD-Thuyết minh"
 	/>
-	
+
 	<myvideo
 	myid="1"
-	mytitle="Trái Đất:Những bước chuyển mình kỳ diệu"
+	mytitle="Trái Đất : Những bước chuyển mình kỳ diệu"
 	myurlthumb="http://i.ytimg.com/vi/rYpWwQt-g8s/mqdefault.jpg"
 	myvkey="PLiiBa13ZLFn2tN-xV3IZbdH7bjVFdS-VU"
 	mydesc="(5) VIDEOS HD-Thuyết minh"
 	/>
-	
+
 	<myvideo
 		myid="1"
 		mytitle="Những cỗ máy khổng lồ"
@@ -58,6 +128,7 @@
 		myvkey="PLiiBa13ZLFn07zIes_Bt0aIynfLOn4czQ"
 		mydesc="(6) VIDEOS HD-Thuyết minh"
 	/>
+
 
   <myvideo
     myid="1"
