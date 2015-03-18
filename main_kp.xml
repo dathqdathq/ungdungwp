@@ -1,73 +1,216 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <mymenuvideo>
-<myvideo
-myid="1"
-mytitle="xxxxKhoa học Đời sống"
-myurlthumb="http://i.ytimg.com/vi/D9rMG5lLGdo/default.jpg"
-myvkey="PLiiBa13ZLFn1HSVn13ABLFMPjZQlt3CbL"
-mydesc="(16) VIDEOS HD-Thuyết minh"
-/>
-<myvideo
-myid="2"
-mytitle="Khoa học quân sự"
-myurlthumb="http://i.ytimg.com/vi/JzGruJVppjk/default.jpg"
-myvkey="PLiiBa13ZLFn3DMEOtDqgwigwW18h5Ef71"
-mydesc="(56)VIDEOS HD-Thuyết minh"
-/>
-<myvideo
-myid="3"
-mytitle="Phim tài liệu nước ngoài"
-myurlthumb="http://i.ytimg.com/vi/JdzkgtYdjTs/default.jpg"
-myvkey="PLiiBa13ZLFn1WgCd_eiCThYwZ5a02BoUd"
-mydesc="(12)VIDEOS HD-Thuyết minh"
-/>
-<myvideo
-myid="4"
-mytitle="Những ngành khoa học tiên phong"
-myurlthumb="http://i.ytimg.com/vi/CBoYsan-6P8/default.jpg"
-myvkey="PLiiBa13ZLFn2COQS3Y4XlQu3O6GWIsY44"
-mydesc="(5)VIDEOS HD-Thuyết minh"
-/>
-<myvideo
-myid="5"
-mytitle="Con người và thiên nhiên"
-myurlthumb="http://i.ytimg.com/vi/hW2D24R_c8E/default.jpg"
-myvkey ="PLiiBa13ZLFn1cYeStWtziYCHsFqNjr8e6"
-mydesc="(7)VIDEOS HD-Thuyết minh"
-/>
-<myvideo
-myid="6"
-mytitle="Bí mật thế kỷ"
-myurlthumb="http://i.ytimg.com/vi/9yj8fpILUXk/default.jpg"
-myvkey ="PLiiBa13ZLFn2LjSJmOB7DMAs9rcbvjgI5"
-mydesc="(14)VIDEOS HD-Thuyết minh"
-/>
-<myvideo
-myid="7"
-mytitle="Khoa học vũ trụ"
-myurlthumb="http://i.ytimg.com/vi/nnwWgNCAH5k/default.jpg"
-myvkey ="PLiiBa13ZLFn251BJbe3nkh9GnqAEr3CTS"
-mydesc="(23)VIDEOS HD-Thuyết minh"
-/>
-<myvideo
-myid="8"
-mytitle="Công nghệ tương lai"
-myurlthumb="http://i.ytimg.com/vi/JKb3Ddh3oQk/default.jpg"
-myvkey ="PLiiBa13ZLFn08vUQrddvRVtVzE3PYBpMm"
-mydesc="(11)VIDEOS HD-Thuyết minh"
-/>
-<myvideo
-myid="9"
-mytitle="Thiên nhiên hoan dã"
-myurlthumb="http://i.ytimg.com/vi/l4LMDVmdqBM/default.jpg"
-myvkey ="PLiiBa13ZLFn3TZrfkLnHS60DkpQzANaRZ"
-mydesc="(15)VIDEOS HD-Thuyết minh"
-/>
-<myvideo
-myid="10"
-mytitle="Đội hộ tống Đại Tây Dương"
-myurlthumb="http://i.ytimg.com/vi/xaU6mEyBFUQ/default.jpg"
-myvkey ="PLiiBa13ZLFn0h1naLOEIg4vLbX7d3YBXs"
-mydesc="(8)VIDEOS HD-Thuyết minh"
-/>
+
+	<myvideo
+	myid="0"
+	mytitle="100 Khám phá vĩ đại của nhân loại"
+	myurlthumb="http://i.ytimg.com/vi/naEqGXEzpbs/mqdefault.jpg"
+	myvkey="PLiiBa13ZLFn2B6zF7PnX2_aOPibZ29Vvq"
+	mydesc="(7) VIDEOS HD-Thuyết minh"
+	/>
+
+	<myvideo
+	myid="0"
+	mytitle="Mỗi sợ hãi kinh hoàng"
+	myurlthumb="http://i.ytimg.com/vi/s9gAB3SsCnQ/mqdefault.jpg"
+	myvkey="PLiiBa13ZLFn2_o8RG4D9KRog8srsgQ1Uh"
+	mydesc="(14) VIDEOS HD-Thuyết minh"
+	/>
+
+	<myvideo
+	myid="0"
+	mytitle="Thiên nhiên nổi giận"
+	myurlthumb="http://i.ytimg.com/vi/3W_XQuWT_XI/mqdefault.jpg"
+	myvkey="PLiiBa13ZLFn1BEZ2l4rClunFJStINe5RC"
+	mydesc="(6) VIDEOS HD-Thuyết minh"
+	/>
+
+	<myvideo
+	myid="0"
+	mytitle="Tin tức cập nhật"
+	myurlthumb="http://i.ytimg.com/vi/wclsVVvct94/mqdefault.jpg"
+	myvkey="PLiiBa13ZLFn2_VpVzNNDL9gfjzOrh53t7"
+	mydesc="(13) VIDEOS HD-Thuyết minh"
+	/>
+
+	<myvideo
+	myid="0"
+	mytitle="Những thành phố huyền thoại"
+	myurlthumb="http://i.ytimg.com/vi/lCVQUl2pcng/mqdefault.jpg"
+	myvkey="PLiiBa13ZLFn3rpVcvq-L3Rnv98X0fPx6S"
+	mydesc="(6) VIDEOS HD-Thuyết minh"
+	/>
+
+	<myvideo
+	myid="0"
+	mytitle="Thiên nhiên hoang dã nước Nga"
+	myurlthumb="http://i.ytimg.com/vi/N5uzWekflVI/mqdefault.jpg"
+	myvkey="PLiiBa13ZLFn3R3Pg4408aVgcH1lD5gjwc"
+	mydesc="(5) VIDEOS HD-Thuyết minh"
+	/>
+
+	<myvideo
+	myid="0"
+	mytitle="Những dòng sông của thế giới"
+	myurlthumb="http://i.ytimg.com/vi/PrDuJJ18s5o/mqdefault.jpg"
+	myvkey="PLiiBa13ZLFn2ZvQawRTt3fyjoG6Q29YCB"
+	mydesc="(12) VIDEOS HD-Thuyết minh"
+	/>
+
+	<myvideo
+	myid="0"
+	mytitle="Những di sản của quá khứ"
+	myurlthumb="http://i.ytimg.com/vi/sdtytNR7HQI/mqdefault.jpg"
+	myvkey="PLiiBa13ZLFn1wZ0ebQZ--AJmivNyYHPzo"
+	mydesc="(18) VIDEOS HD-Thuyết minh"
+
+	<myvideo
+	myid="0"
+	mytitle="Phong cảnh vũ trụ"
+	myurlthumb="http://i.ytimg.com/vi/KXOBUzK4oII/mqdefault.jpg"
+	myvkey="PLiiBa13ZLFn0MRyb3Mc_fSN8CEdCgYH8a"
+	mydesc="(11) VIDEOS HD-Thuyết minh"
+	/>
+
+	<myvideo
+	myid="0"
+	mytitle="Trái đất : Những hậu quả thảm khốc"
+	myurlthumb="http://i.ytimg.com/vi/vJ0Sg-Bw_To/mqdefault.jpg"
+	myvkey="PLiiBa13ZLFn1capPaClXNq4HFm1NFDRhz"
+	mydesc="(6) VIDEOS HD-Thuyết minh"
+	/>
+
+	<myvideo
+	myid="0"
+	mytitle="Khám phá vũ trụ"
+	myurlthumb="http://i.ytimg.com/vi/rMFuQ7HQWiw/mqdefault.jpg"
+	myvkey="PLiiBa13ZLFn0TRJ8u2ejzh2iudTdADDMq"
+	mydesc="(17) VIDEOS HD-Thuyết minh"
+	/>
+
+	<myvideo
+	myid="0"
+	mytitle="Những công trình vĩ đại"
+	myurlthumb="http://i.ytimg.com/vi/TD1aeX7MAvk/mqdefault.jpg"
+	myvkey="PLiiBa13ZLFn0w6CJdHZIspOYjiq0BVOIz"
+	mydesc="(17) VIDEOS HD-Thuyết minh"
+	/>
+
+	<myvideo
+	myid="0"
+	mytitle="Những phát minh thiên tài"
+	myurlthumb="http://i.ytimg.com/vi/Qv27h83Z6cE/mqdefault.jpg"
+	myvkey="PLiiBa13ZLFn07tL-urN2TSjEOXBaRu5qX"
+	mydesc="(7) VIDEOS HD-Thuyết minh"
+	/>
+
+	<myvideo
+	myid="0"
+	mytitle="Nguồn năng lượng tương lai"
+	myurlthumb="http://i.ytimg.com/vi/Navw2S9UZdE/mqdefault.jpg"
+	myvkey="PLiiBa13ZLFn39B1XfKZkKEfBKtVp1tvkY"
+	mydesc="(4) VIDEOS HD-Thuyết minh"
+	/>
+
+	<myvideo
+	myid="0"
+	mytitle="Trái Đất : Những bước chuyển mình kỳ diệu"
+	myurlthumb="http://i.ytimg.com/vi/rYpWwQt-g8s/mqdefault.jpg"
+	myvkey="PLiiBa13ZLFn2tN-xV3IZbdH7bjVFdS-VU"
+	mydesc="(5) VIDEOS HD-Thuyết minh"
+	/>
+
+	<myvideo
+	myid="0"
+	mytitle="Những cỗ máy khổng lồ"
+	myurlthumb="http://i.ytimg.com/vi/Uo_4wHaBh40/mqdefault.jpg"
+	myvkey="PLiiBa13ZLFn07zIes_Bt0aIynfLOn4czQ"
+	mydesc="(6) VIDEOS HD-Thuyết minh"
+	/>
+
+
+  <myvideo
+    myid="1"
+    mytitle="Khoa học Đời sống"
+    myurlthumb="http://i.ytimg.com/vi/D9rMG5lLGdo/mqdefault.jpg"
+    myvkey="PLiiBa13ZLFn1HSVn13ABLFMPjZQlt3CbL"
+    mydesc="(16) VIDEOS HD-Thuyết minh"
+  />
+
+  <myvideo
+    myid="2"
+    mytitle="Khoa học quân sự"
+    myurlthumb="http://i.ytimg.com/vi/4441RExMA7U/mqdefault.jpg"
+    myvkey="PLiiBa13ZLFn3DMEOtDqgwigwW18h5Ef71"
+    mydesc="(56)VIDEOS HD-Thuyết minh"
+  />
+
+  
+  <myvideo
+    myid="3"
+    mytitle="Phim tài liệu nước ngoài"
+    myurlthumb="http://i.ytimg.com/vi/JdzkgtYdjTs/mqdefault.jpg"
+    myvkey="PLiiBa13ZLFn1WgCd_eiCThYwZ5a02BoUd"
+    mydesc="(12)VIDEOS HD-Thuyết minh"
+  />
+  
+  <myvideo
+    myid="4"
+    mytitle="Những ngành khoa học tiên phong"
+    myurlthumb="http://i.ytimg.com/vi/CBoYsan-6P8/mqdefault.jpg"
+    myvkey="PLiiBa13ZLFn2COQS3Y4XlQu3O6GWIsY44"
+    mydesc="(5)VIDEOS HD-Thuyết minh"
+  />
+
+  <myvideo
+    myid="5"
+    mytitle="Con người và thiên nhiên"
+    myurlthumb="http://i.ytimg.com/vi/hW2D24R_c8E/mqdefault.jpg"
+    myvkey ="PLiiBa13ZLFn1cYeStWtziYCHsFqNjr8e6"
+    mydesc="(7)VIDEOS HD-Thuyết minh"
+  />
+
+  <myvideo
+    myid="6"
+    mytitle="Bí mật thế kỷ"
+    myurlthumb="http://i.ytimg.com/vi/9yj8fpILUXk/mqdefault.jpg"
+    myvkey ="PLiiBa13ZLFn2LjSJmOB7DMAs9rcbvjgI5"
+    mydesc="(14)VIDEOS HD-Thuyết minh"
+  />
+
+  <myvideo
+    myid="7"
+    mytitle="Khoa học vũ trụ"
+    myurlthumb="http://i.ytimg.com/vi/nnwWgNCAH5k/mqdefault.jpg"
+    myvkey ="PLiiBa13ZLFn251BJbe3nkh9GnqAEr3CTS"
+    mydesc="(23)VIDEOS HD-Thuyết minh"
+  />
+  
+    <myvideo
+    myid="8"
+    mytitle="Công nghệ tương lai"
+    myurlthumb="http://i.ytimg.com/vi/JKb3Ddh3oQk/mqdefault.jpg"
+    myvkey ="PLiiBa13ZLFn08vUQrddvRVtVzE3PYBpMm"
+    mydesc="(11)VIDEOS HD-Thuyết minh"
+  />
+  
+   <myvideo
+    myid="9"
+    mytitle="Thiên nhiên hoan dã"
+    myurlthumb="http://i.ytimg.com/vi/l4LMDVmdqBM/mqdefault.jpg"
+    myvkey ="PLiiBa13ZLFn3TZrfkLnHS60DkpQzANaRZ"
+    mydesc="(15)VIDEOS HD-Thuyết minh"
+  />
+  
+   <myvideo
+    myid="10"
+    mytitle="Đội hộ tống Đại Tây Dương"
+    myurlthumb="http://i.ytimg.com/vi/xaU6mEyBFUQ/mqdefault.jpg"
+    myvkey ="PLiiBa13ZLFn0h1naLOEIg4vLbX7d3YBXs"
+    mydesc="(8)VIDEOS HD-Thuyết minh"
+  />
+
+  
+
+
 </mymenuvideo>
