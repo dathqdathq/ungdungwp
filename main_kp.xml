@@ -1,6 +1,31 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <mymenuvideo>
 
+
+	<myvideo
+	myid="1"
+	mytitle="Trái đất : Những hậu quả thảm khốc"
+	myurlthumb="http://i.ytimg.com/vi/vJ0Sg-Bw_To/mqdefault.jpg"
+	myvkey="PLiiBa13ZLFn1capPaClXNq4HFm1NFDRhz"
+	mydesc="(6) VIDEOS HD-Thuyết minh"
+	/>
+
+	<myvideo
+	myid="1"
+	mytitle="Khám phá vũ trụ"
+	myurlthumb="http://i.ytimg.com/vi/rMFuQ7HQWiw/mqdefault.jpg"
+	myvkey="PLiiBa13ZLFn0TRJ8u2ejzh2iudTdADDMq"
+	mydesc="(17) VIDEOS HD-Thuyết minh"
+	/>
+
+	<myvideo
+	myid="1"
+	mytitle="Những công trình vĩ đại"
+	myurlthumb="http://i.ytimg.com/vi/TD1aeX7MAvk/mqdefault.jpg"
+	myvkey="PLiiBa13ZLFn0w6CJdHZIspOYjiq0BVOIz"
+	mydesc="(17) VIDEOS HD-Thuyết minh"
+	/>
+
 	
 	<myvideo
 	myid="1"
