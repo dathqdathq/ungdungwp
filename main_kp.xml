@@ -1,23 +1,6 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <mymenuvideo>
 
-	<myvideo
-	myid="0"
-	mytitle="Trái Đất : Những bước chuyển mình kỳ diệu"
-	myurlthumb="http://i.ytimg.com/vi/rYpWwQt-g8s/mqdefault.jpg"
-	myvkey="PLiiBa13ZLFn2tN-xV3IZbdH7bjVFdS-VU"
-	mydesc="(5) VIDEOS HD-Thuyết minh"
-	/>
-
-	<myvideo
-	myid="0"
-	mytitle="Những cỗ máy khổng lồ"
-	myurlthumb="http://i.ytimg.com/vi/Uo_4wHaBh40/mqdefault.jpg"
-	myvkey="PLiiBa13ZLFn07zIes_Bt0aIynfLOn4czQ"
-	mydesc="(6) VIDEOS HD-Thuyết minh"
-	/>
-
-
   <myvideo
     myid="1"
     mytitle="Khoa học Đời sống"
