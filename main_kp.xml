@@ -9,6 +9,15 @@
 	mydesc="(7) VIDEOS HD-Thuyết minh"
 	/>
 
+	 <myvideo
+	    myid="6"
+	    mytitle="Bí mật thế kỷ"
+	    myurlthumb="http://i.ytimg.com/vi/9yj8fpILUXk/default.jpg"
+	    myvkey ="PLiiBa13ZLFn2LjSJmOB7DMAs9rcbvjgI5"
+	    mydesc="(14)VIDEOS HD-Thuyết minh"
+	  />
+
+
 	<myvideo
 	myid="1"
 	mytitle="Mỗi sợ hãi kinh hoàng"
@@ -169,14 +178,6 @@
     myurlthumb="http://i.ytimg.com/vi/hW2D24R_c8E/default.jpg"
     myvkey ="PLiiBa13ZLFn1cYeStWtziYCHsFqNjr8e6"
     mydesc="(7)VIDEOS HD-Thuyết minh"
-  />
-
-  <myvideo
-    myid="6"
-    mytitle="Bí mật thế kỷ"
-    myurlthumb="http://i.ytimg.com/vi/9yj8fpILUXk/default.jpg"
-    myvkey ="PLiiBa13ZLFn2LjSJmOB7DMAs9rcbvjgI5"
-    mydesc="(14)VIDEOS HD-Thuyết minh"
   />
 
   <myvideo
