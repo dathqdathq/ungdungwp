@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <mymenuvideo>
 
+<!--
+	
 	<myvideo
 	myid="1"
 	mytitle="100 Khám phá vĩ đại của nhân loại"
@@ -80,7 +82,7 @@
 	myvkey="PLiiBa13ZLFn1capPaClXNq4HFm1NFDRhz"
 	mydesc="(6) VIDEOS HD-Thuyết minh"
 	/>
-
+-->
 	<myvideo
 	myid="1"
 	mytitle="Khám phá vũ trụ"
