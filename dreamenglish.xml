@@ -21,7 +21,7 @@
 <myvideo
 	myid="2"
 	mytitle="Học Màu"
-	myurlthumb="htpp://i.ytimg.com/vi/z0HZNaM7gTg/mqdefault.jpg"
+	myurlthumb="http://i.ytimg.com/vi/z0HZNaM7gTg/mqdefault.jpg"
 	myvkey="PLYzr3Vg8woe23g_8l7zOzEcbXw6sfBsm1"
 	mydesc=""
 	/>
@@ -30,7 +30,7 @@
 <myvideo
 	myid="2"
 	mytitle="Kids Songs Collections"
-	myurlthumb="htpp//i.ytimg.com/vi/vicuqL2seug/mqdefault.jpg"
+	myurlthumb="htpp://i.ytimg.com/vi/vicuqL2seug/mqdefault.jpg"
 	myvkey="PLYzr3Vg8woe3jcSCIsg3z8JWvJYnbe2pI"
 	mydesc="In these minute to one hour long videos learn everything from ABCs to 123s and more!"
 	/>
@@ -39,7 +39,7 @@
 <myvideo
 	myid="1"
 	mytitle="Learn Body Parts with these fun songs"
-	myurlthumb="http//i.ytimg.com/vi/Rc_kIWKLiD8/mqdefault.jpg"
+	myurlthumb="http://i.ytimg.com/vi/Rc_kIWKLiD8/mqdefault.jpg"
 	myvkey="PLYzr3Vg8woe2iZD467lDXGINFDr6fSAas"
 	mydesc="Learn body parts with these fun songs and vocabulary builder videos"
 	/>
@@ -79,7 +79,7 @@
 	<myvideo
 	myid="1"
 	mytitle="Long Play Shows!"
-	myurlthumb="http:"
+	myurlthumb="http://i.ytimg.com/vi/yl3Ywsj9q3Q/mqdefault.jpg"
 	myvkey="PLYzr3Vg8woe1j7R0KbNXzsjOroifq99TV"
 	mydesc="Long Play Shows!"
 	/>
@@ -147,7 +147,9 @@
 	myurlthumb="http://i.ytimg.com/vi/i0NloNxh4xE/mqdefault.jpg"
 	myvkey="PLBE33C1412A7E9E7A"
 	mydesc="Math Songs: Sing and Learn Math!"
-	/>	<myvideo
+	/>	
+	
+	<myvideo
 	myid="1"
 	mytitle="ABC Space Song"
 	myurlthumb="http://i.ytimg.com/vi/gI9o73kenFI/mqdefault.jpg"
@@ -194,15 +196,8 @@
 	myurlthumb="http://i.ytimg.com/vi/Nk5EUUnm7rc/mqdefault.jpg"
 	myvkey="PLYzr3Vg8woe0udNBHdPQnRl6gs8uKkXpq"
 	mydesc="Days of the Week Songs"
-	/>	<myvideo
-	myid="1"
-	mytitle=""
-	myurlthumb="http:"
-	myvkey=""
-	mydesc=""
-	/>
-
-	
+	/>	
+		
 <myvideo
 	myid="1"
 	mytitle="Lullaby Songs "
