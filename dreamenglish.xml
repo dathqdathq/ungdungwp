@@ -3,7 +3,7 @@
 
 	<myvideo
 	myid="1"
-	mytitle="Học ABC"
+	mytitle="ABC Songs"
 	myurlthumb="http://i.ytimg.com/vi/5k521GcBOYw/default.jpg"
 	myvkey="PLYzr3Vg8woe0o8sR8IOTuRNZhgp3nifNz"
 	mydesc="ABC Songs"
@@ -12,15 +12,15 @@
 
 	<myvideo
 	myid="2"
-	mytitle="Học Số 123"
+	mytitle="Learn Numbers"
 	myurlthumb="http://i.ytimg.com/vi/85M1yxIcHpw/default.jpg"
 	myvkey="PLYzr3Vg8woe1QX4dZ8ix4MtaQCpSRZKAJ"
-	mydesc="Learn Numbers "
+	mydesc="Learn Numbers"
 	/>
 	
 <myvideo
 	myid="2"
-	mytitle="Học Màu"
+	mytitle="Colors"
 	myurlthumb="http://i.ytimg.com/vi/z0HZNaM7gTg/default.jpg"
 	myvkey="PLYzr3Vg8woe23g_8l7zOzEcbXw6sfBsm1"
 	mydesc="Colors"
