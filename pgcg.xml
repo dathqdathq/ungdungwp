@@ -3,6 +3,30 @@
 
 	<myvideo
 	myid="1"
+	mytitle="Phút giây cảnh giác"
+	myurlthumb="http://i.ytimg.com/vi/nKTyGsUGP6Y/default.jpg"
+	myvkey="PLCNNYE9AS-HUvOMUCYGIN0YNWgE1tZrXs"
+	mydesc="Phút giây cảnh giác"
+	/>
+	
+	<myvideo
+	myid="1"
+	mytitle="Phút giây cảnh giác mới"
+	myurlthumb="http://i.ytimg.com/vi/Y5MNg4s_W8Q/default.jpg"
+	myvkey="PLX_LDjCw7WQ9gwaSwsvu6y6sIc6ERahrK"
+	mydesc="Phút giây cảnh giác mới"
+	/>
+	
+	<myvideo
+	myid="1"
+	mytitle="Phút giây cảnh giác"
+	myurlthumb="http://i.ytimg.com/vi/06WAMz3I5TY/default.jpg"
+	myvkey="PLCNNYE9AS-HWQuFDkr96Hv-gFjCOGxjiN"
+	mydesc="Phút giây cảnh giác"
+	/>
+	
+	<myvideo
+	myid="1"
 	mytitle="Phút giây cảnh giác "
 	myurlthumb="http://i.ytimg.com/vi/y9NBJMvdD2w/default.jpg"
 	myvkey="PL_-JBJypTUGKl-SGJ3unfew9YkW28dpPY"
@@ -83,12 +107,29 @@
 	mydesc="NHỮNG VỤ TRỘM CƯỚP TÁO BẠO"
 	/>
 	
+		
 	<myvideo
 	myid="1"
 	mytitle="NHỮNG VỤ HIẾP DÂM CHẤN ĐỘNG XÃ HỘI"
 	myurlthumb="http://i.ytimg.com/vi/BedfNdLXwe0/default.jpg"
 	myvkey="PLlF3XFbtGkWoito7H3J1FTMe6w3yEUSY0"
 	mydesc="NHỮNG VỤ HIẾP DÂM CHẤN ĐỘNG XÃ HỘI"
+	/>
+	
+	<myvideo
+	myid="1"
+	mytitle="TOP CLIP HOT TIN TỨC"
+	myurlthumb="http://i.ytimg.com/vi/Va0SeiZcprI/default.jpg"
+	myvkey="PLlF3XFbtGkWrTxmjHCrDdqt7yRJDgJ8p-"
+	mydesc="TOP CLIP HOT TIN TỨC"
+	/>
+	
+	<myvideo
+	myid="1"
+	mytitle="CÁC CLIP HOT GIRL GÂY XÔN XAO"
+	myurlthumb="http://i.ytimg.com/vi/S4l-05Mr5BI/default.jpg"
+	myvkey="PLlF3XFbtGkWqeb4dV4n2A0hracL9C48rJ"
+	mydesc="CÁC CLIP HOT GIRL GÂY XÔN XAO"
 	/>
 	
 </mymenuvideo>
