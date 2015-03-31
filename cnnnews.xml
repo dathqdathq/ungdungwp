@@ -49,14 +49,21 @@
 	mydesc="Popular CNN Student News"
 	/>		
 		
-
+<myvideo
+	myid="1"
+	mytitle="News with subtitles"
+	myurlthumb="http://i.ytimg.com/vi/y4eEqLItPd8/default.jpg"
+	myvkey="PL2aGa5ApnofikyZH03hZ9nhAwxhWa4HjM"
+	mydesc="(part 01)"
+	/>							
+				
 	
 <myvideo
 	myid="1"
 	mytitle="News with subtitles"
 	myurlthumb="http://i.ytimg.com/vi/p73aCip8tg4/default.jpg"
 	myvkey="PLpCR8mo8DkOzwhhTg7aO1B1TzikBA4YGa"
-	mydesc="(part 01)"
+	mydesc="(part 02)"
 	/>	
 
 <myvideo
@@ -64,7 +71,7 @@
 	mytitle="News with subtitles"
 	myurlthumb="http://i.ytimg.com/vi/R22wyhc4S2w/default.jpg"
 	myvkey="PL2aGa5Apnofhsjei4t0Ezk1iKhJJqHe5q"
-	mydesc="(part 02)"
+	mydesc="(part 03)"
 	/>	
 
 <myvideo
@@ -72,7 +79,7 @@
 	mytitle="News with subtitles"
 	myurlthumb="http://i.ytimg.com/vi/pWRw-tfhSwU/default.jpg"
 	myvkey="PLVRvifpYY35-hVKE6PlpTtzWE4XSfPK2_"
-	mydesc="(part 03)"
+	mydesc="(part 04)"
 	/>	
 			
 <myvideo
@@ -80,7 +87,7 @@
 	mytitle="News with subtitles"
 	myurlthumb="http://i.ytimg.com/vi/YF_2tUJJhss/default.jpg"
 	myvkey="PLfM5sFro0hRy412Ary5V9lxhTpFBOFbf3"
-	mydesc="(part 04)"
+	mydesc="(part 05)"
 	/>	
 						
 <myvideo
@@ -88,16 +95,8 @@
 	mytitle="News with subtitles"
 	myurlthumb="http://i.ytimg.com/vi/_DaBBUg36XU/default.jpg"
 	myvkey="PLXkWPTdCSWpZ9UpbHYvkGcxfY6BX4lVNX"
-	mydesc="(part 05)"
-	/>							
-						
-<myvideo
-	myid="1"
-	mytitle="News with subtitles"
-	myurlthumb="http://i.ytimg.com/vi/y4eEqLItPd8/default.jpg"
-	myvkey="PL2aGa5ApnofikyZH03hZ9nhAwxhWa4HjM"
 	mydesc="(part 06)"
 	/>							
-				
+						
 	
 </mymenuvideo>
