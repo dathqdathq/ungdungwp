@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="utf-8" ?>
-
 <mymenuvideo>
-		<myvideo
-			myid="1"
-			mytitle="ABC and 123"
-			myurlthumb="http://i.ytimg.com/vi/UQthLMdsQak/mqdefault.jpg"
-			myvkey="PL0VE_cI7-AYQ9A2qqZ3IxL7P8mLBQDOoD"
-			mydesc="Songs that contain letters or numbers"
-			/>
+
+	<myvideo
+	myid="1"
+	mytitle="ABC and 123"
+	myurlthumb="http://i.ytimg.com/vi/UQthLMdsQak/mqdefault.jpg"
+	myvkey="PL0VE_cI7-AYQ9A2qqZ3IxL7P8mLBQDOoD"
+	mydesc="letters or numbers"
+	/>
+
 </mymenuvideo>
