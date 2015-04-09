@@ -187,7 +187,23 @@
 		myvkey="PL80FFD6D5DDDDDA18"
 		mydesc="Funny Animal Rhymes"
 		/>
-		
+	<myvideo
+		myid="26"
+		mytitle="Energetic Rhymes"
+		myurlthumb="http://i.ytimg.com/vi/b-GY26cV7Eg/mqdefault.jpg"
+		myvkey="PLC37EBAA6C1A786D1"
+		mydesc="Energetic Rhymes"
+		/>
+	<myvideo
+		myid="27"
+		mytitle="Old MacDonald"
+		myurlthumb="http://i.ytimg.com/vi/_uLVq4hBU1M/mqdefault.jpg"
+		myvkey="PLJIK7JrzV1IiS8Rh8Cvo8AJOKrWYil2ci"
+		mydesc="Old MacDonald (part 1)"
+		/>
+	
+	
+	
 </mymenuvideo>
 
 
