@@ -2,11 +2,85 @@
 <mymenuvideo>
 
 	<myvideo
-	myid="1"
-	mytitle="ABC and 123"
-	myurlthumb="http://i.ytimg.com/vi/UQthLMdsQak/mqdefault.jpg"
-	myvkey="PL0VE_cI7-AYQ9A2qqZ3IxL7P8mLBQDOoD"
-	mydesc="letters or numbers"
-	/>
+		myid="1"
+		mytitle="ABC and 123"
+		myurlthumb="http://i.ytimg.com/vi/UQthLMdsQak/mqdefault.jpg"
+		myvkey="PL0VE_cI7-AYQ9A2qqZ3IxL7P8mLBQDOoD"
+		mydesc="Letters or numbers"
+		/>
+			
+	<myvideo
+		myid="2"
+		mytitle="Number Songs"
+		myurlthumb="http://i.ytimg.com/vi/WSC-gHBU_d0/mqdefault.jpg"
+		myvkey="PL0VE_cI7-AYTBWkKNruWu5jpCMHeXSk7i"
+		mydesc="Number songs collection from Little baby Bum"
+		/>
+
+			
+	<myvideo
+		myid="3"
+		mytitle="Animal Songs"
+		myurlthumb="http:///i.ytimg.com/vi/Jn_5RjLiGHY/mqdefault.jpg"
+		myvkey="PL0VE_cI7-AYS_GZaiJwetoT1LbYqEuwGH"
+		mydesc="Lovely nursery rhymes about animals"
+		/>
+
+		
+	<myvideo
+		myid="4"
+		mytitle="Action Songs for Children"
+		myurlthumb="http://i.ytimg.com/vi/FkL8j0wIRf8/mqdefault.jpg"
+		myvkey="PL0VE_cI7-AYTzBmhpILrTz9NZTZXfJpju"
+		mydesc="Songs your little one can dance"
+		/>
+
+	<myvideo
+		myid="5"
+		mytitle="Nursery Rhymes - the best"
+		myurlthumb="http://i.ytimg.com/vi/QqQ8kdkk0Gg/mqdefault.jpg"
+		myvkey="PL36053D3415FB9CA6"
+		mydesc="All of our nursery rhyme videos"
+		/>	
+
+	<myvideo
+		myid="6"
+		mytitle="Children Songs"
+		myurlthumb="http://i.ytimg.com/vi/9HDeEbJyNK8/mqdefault.jpg"
+		myvkey="PL177660C8C17D222E"
+		mydesc="Nursery rhyme videos - 3D animations"
+		/>
+
+	<myvideo
+		myid="7"
+		mytitle="Wheels On The Bus"
+		myurlthumb="http://i.ytimg.com/vi/xbFrN1FL6tE/mqdefault.jpg"
+		myvkey="PL0VE_cI7-AYT-D5knBUeSOh8d9C6DC3qE"
+		mydesc="Wheels On The Bus videos"
+		/>	
+
+	<myvideo
+		myid="9"
+		mytitle="Let's Learn - With Little Baby Bum"
+		myurlthumb="http://i.ytimg.com/vi/VWm4AyU5SPY/mqdefault.jpg"
+		myvkey="PL0VE_cI7-AYRZuA5nrgU3pAwKqYVHmcup"
+		mydesc="Learn nursery rhymes the fun way"
+		/>	
+
+	<myvideo
+		myid="10"
+		mytitle="Nursery Rhymes - Karaoke Versions"
+		myurlthumb="http://i.ytimg.com/vi/yRCjoov_61I/mqdefault.jpg"
+		myvkey="PL8664D410C80B373F"
+		mydesc="karaoke versions"
+		/>		
+
+	<myvideo
+		myid="11"
+		mytitle="Compilations - Karaoke Versions"
+		myurlthumb="http://i.ytimg.com/vi/8z7VReiGSC4/default.jpg"
+		myvkey="PL0VE_cI7-AYSQhtC7VsRMKdICdUoZgA3q"
+		mydesc="karaoke versions"
+		/>			
 
 </mymenuvideo>
