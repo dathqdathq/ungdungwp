@@ -201,7 +201,34 @@
 		myvkey="PLJIK7JrzV1IiS8Rh8Cvo8AJOKrWYil2ci"
 		mydesc="Old MacDonald (part 1)"
 		/>
-	
+	<myvideo
+		myid="28"
+		mytitle="Old MacDonald"
+		myurlthumb="http://i.ytimg.com/vi/hDt_MhIKpLM/mqdefault.jpg"
+		myvkey="PL00C5552BE77A8A5E"
+		mydesc="Old MacDonald (part 2)"
+		/>
+	<myvideo
+		myid="29"
+		mytitle="Old MacDonald"
+		myurlthumb="http://i.ytimg.com/vi/rfmxx_72Coc/mqdefault.jpg"
+		myvkey="PLdow_BUS695GDZ04UMrfULk8ux6W-nFdt"
+		mydesc="Old MacDonald (part 3)"
+		/>
+	<myvideo
+		myid="29"
+		mytitle="Old MacDonald"
+		myurlthumb="http://i.ytimg.com/vi/xuIYiFe88WE/mqdefault.jpg"
+		myvkey="PLED75EECE70615638"
+		mydesc="Old MacDonald (part 4)"
+		/>
+	<myvideo
+		myid="30"
+		mytitle="Old MacDonald"
+		myurlthumb="http://i.ytimg.com/vi/1oVoT9CnjK0/mqdefault.jpg"
+		myvkey="PLV3Gd8vEgOrilYL_A46Ae7Cyh7CTq5FT6"
+		mydesc="Old MacDonald (part 5)"
+		/>
 	
 	
 </mymenuvideo>
