@@ -75,6 +75,9 @@
 		mydesc="karaoke versions"
 		/>		
 
+		
+		
+		
 	<myvideo
 		myid="11"
 		mytitle="Compilations - Karaoke Versions"
@@ -147,5 +150,22 @@
 		myvkey="PLV-cxl3VSwWG_opeAaq442N-6HrMyRyUC"
 		mydesc="Chu chu TV (part 9)"
 		/>	
-				
+
+	
+	<myvideo
+		myid="21"
+		mytitle="Bob, The Train"
+		myurlthumb="http://i.ytimg.com/vi/gry5-RQnSqQ/mqdefault.jpg"
+		myvkey="PL6BeB6kd2acaSRuZpwpmeAaemQYZvhlJt"
+		mydesc="Wheels on the bus"
+		/>	
+	<myvideo
+		myid="22"
+		mytitle="Wheels On The Bus"
+		myurlthumb="http://i.ytimg.com/vi/gf2UwLWzuYg/mqdefault.jpg"
+		myvkey="PL6BeB6kd2acZoQtbrbKtsg0k67mcreo30"
+		mydesc="Wheels on the bus"
+		/>
+ 
+		
 </mymenuvideo>
