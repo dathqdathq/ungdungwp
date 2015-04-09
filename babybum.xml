@@ -83,11 +83,6 @@
 		mydesc="karaoke versions"
 		/>			
 
-		
-		
-		
-		
-
 	<myvideo
 		myid="12"
 		mytitle="Five Little Monkeys Jumping on the Bed"
@@ -95,62 +90,5 @@
 		myvkey="PLqL33k3a6CurSBuHHPfN_QH_wfSC3LYPJ"
 		mydesc="Chu chu TV (part 1)"
 		/>	
-		
-	<myvideo
-		myid="13"
-		mytitle="Baa Baa Black Sheep"
-		myurlthumb="http://i.ytimg.com/vi/1dttq5p0xUM/mqdefault.jpg"
-		myvkey="PLcVldVbSJsrjjQ4OAdt3PIfq3d8AI_Z9i"
-		mydesc="Chu chu TV (part 2)"
-		/>	
-	<myvideo
-		myid="14"
-		mytitle="Nursery Rhymes | Children Songs"
-		myurlthumb="http://i.ytimg.com/vi/KQQ9MjKo-qc/mqdefault.jpg"
-		myvkey="PLqYXYWudQqfaron-IKr09tMigJQNwvaIK"
-		mydesc="Chu chu TV (part 3)"
-		/>	
-	<myvideo
-		myid="15"
-		mytitle="Johny Johny Yes Papa"
-		myurlthumb="http://i.ytimg.com/vi/olWG6jiMV0g/mqdefault.jpg"
-		myvkey="PLiNP7UGhJ4XAOFkYF3TK6AWNsq5pXA1Wj"
-		mydesc="Chu chu TV (part 4)"
-		/>
-	<myvideo
-		myid="16"
-		mytitle="Twinkle Twinkle Little Star"
-		myurlthumb="http://i.ytimg.com/vi/6VjmKnFlJm0/mqdefault.jpg"
-		myvkey="PLXVcHg8vYnGe2I9Z6MhYwMwlCi0-_Diad"
-		mydesc="Chu chu TV (part 5)"
-		/>	
-	<myvideo
-		myid="17"
-		mytitle="Number songs"
-		myurlthumb="http://i.ytimg.com/vi/fHqjNHxmB7c/mqdefault.jpg"
-		myvkey="PLgzs4G4llbD-GEee2Lxxc4c7iatxdjZN4"
-		mydesc="Chu chu TV (part 6)"
-		/>
-	<myvideo
-		myid="18"
-		mytitle="ABC | Number | Color... songs"
-		myurlthumb="http://i.ytimg.com/vi/B5csN8gQY4E/mqdefault.jpg"
-		myvkey="PLtl3TUHBp2QTMZRLksBAjBS0rSS6UQmII"
-		mydesc="Chu chu TV (part 7)"
-		/>	
-	<myvideo
-		myid="19"
-		mytitle="The Spirit of Christmas"
-		myurlthumb="http://i.ytimg.com/vi/j2SrSeOd68k/mqdefault.jpg"
-		myvkey="PLEK__U8zOUFkNxoNgE8y8HDMqSzlCT-rU"
-		mydesc="Chu chu TV (part 8)"
-		/>	
-	<myvideo
-		myid="20"
-		mytitle="123 and ABC Songs"
-		myurlthumb="http://i.ytimg.com/vi/ea5-SIe5l7M/mqdefault.jpg"
-		myvkey="PLV-cxl3VSwWG_opeAaq442N-6HrMyRyUC"
-		mydesc="Chu chu TV (part 9)"
-		/>	
-				
+
 </mymenuvideo>
