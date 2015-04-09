@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8" ?>
 
 <mymenuvideo>
-
 		<myvideo
 			myid="1"
 			mytitle="ABC and 123"
@@ -9,18 +8,4 @@
 			myvkey="PL0VE_cI7-AYQ9A2qqZ3IxL7P8mLBQDOoD"
 			mydesc="Songs that contain letters or numbers! Learn! Have fun!"
 			/>
-			
-		<myvideo
-			myid="2"
-			mytitle="Number Songs!"
-			myurlthumb="http://i.ytimg.com/vi/WSC-gHBU_d0/mqdefault.jpg"
-			myvkey="PL0VE_cI7-AYTBWkKNruWu5jpCMHeXSk7i"
-			mydesc="Number songs collection from Little baby Bum"
-			/>
-
-			
-		
-
-			
-
 </mymenuvideo>
