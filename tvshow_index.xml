@@ -4,7 +4,7 @@
 	<myvideo
 		myid="1"
 		mytitle="NGƯỜI BÍ ẨN"
-		myurlthumb="https://yt3.ggpht.com/-gNAASPHPqOY/AAAAAAAAAAI/AAAAAAAAAAA/a9Uh1DuHS2Y/s100-c-k-no/photo.jpg"
+		myurlthumb="http://yt3.ggpht.com/-gNAASPHPqOY/AAAAAAAAAAI/AAAAAAAAAAA/a9Uh1DuHS2Y/s100-c-k-no/photo.jpg"
 		myvkey="tvshow_nba.xml"
 		mydesc="TV show"
 		/>
@@ -12,14 +12,14 @@
 	<myvideo
 		myid="1"
 		mytitle="THE REMIX - HÒA ÂM ÁNH SÁNG"
-		myurlthumb="https://yt3.ggpht.com/-tgU_q3EPDSI/AAAAAAAAAAI/AAAAAAAAAAA/S9q1egjy0lw/s100-c-k-no/photo.jpg"
+		myurlthumb="http://yt3.ggpht.com/-tgU_q3EPDSI/AAAAAAAAAAI/AAAAAAAAAAA/S9q1egjy0lw/s100-c-k-no/photo.jpg"
 		myvkey="tvshow_remix.xml"
 		mydesc="TV show"
 		/>
 	<myvideo
 		myid="1"
-		mytitle="BƯỚC NHẢY HOÀN VŨ 2015"
-		myurlthumb="https://yt3.ggpht.com/-ZoXYFEHKoHg/AAAAAAAAAAI/AAAAAAAAAAA/Rf9pfie00tU/s100-c-k-no/photo.jpg"
+		mytitle="BƯỚC NHẢY HOÀN VŨ"
+		myurlthumb="http://yt3.ggpht.com/-ZoXYFEHKoHg/AAAAAAAAAAI/AAAAAAAAAAA/Rf9pfie00tU/s100-c-k-no/photo.jpg"
 		myvkey="tvshow_bnhv.xml"
 		mydesc="TV show"
 		/>
