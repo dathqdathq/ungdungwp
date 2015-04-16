@@ -5,7 +5,15 @@
 		myid="1"
 		mytitle="NGƯỜI BÍ ẨN - MÙA 2"
 		myurlthumb="http://yt3.ggpht.com/-gNAASPHPqOY/AAAAAAAAAAI/AAAAAAAAAAA/a9Uh1DuHS2Y/s100-c-k-no/photo.jpg"
-		myvkey="tvshow_nba.xml"
+		myvkey="tvshow_nba2.xml"
+		mydesc="TV show"
+		/>
+		
+	<myvideo
+		myid="1"
+		mytitle="NGƯỜI BÍ ẨN - MÙA 1"
+		myurlthumb="http://yt3.ggpht.com/-gNAASPHPqOY/AAAAAAAAAAI/AAAAAAAAAAA/a9Uh1DuHS2Y/s100-c-k-no/photo.jpg"
+		myvkey="tvshow_nba1.xml"
 		mydesc="TV show"
 		/>
 		
