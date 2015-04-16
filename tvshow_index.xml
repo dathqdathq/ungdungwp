@@ -23,4 +23,11 @@
 		myvkey="tvshow_bnhv.xml"
 		mydesc="TV show"
 		/>
+	<myvideo
+		myid="1"
+		mytitle="CẶP ĐÔI HOÀN HẢO"
+		myurlthumb="http://yt3.ggpht.com/-z75gAlZsSNo/AAAAAAAAAAI/AAAAAAAAAAA/BHdlAt-AlGg/s100-c-k-no/photo.jpg"
+		myvkey="tvshow_cdhh.xml"
+		mydesc="TV show"
+		/>
 </mymenuvideo>
