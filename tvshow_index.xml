@@ -3,20 +3,12 @@
 	
 	<myvideo
 		myid="1"
-		mytitle="NGƯỜI BÍ ẨN - MÙA 2"
+		mytitle="NGƯỜI BÍ ẨN"
 		myurlthumb="http://yt3.ggpht.com/-gNAASPHPqOY/AAAAAAAAAAI/AAAAAAAAAAA/a9Uh1DuHS2Y/s100-c-k-no/photo.jpg"
-		myvkey="tvshow_nba2.xml"
+		myvkey="tvshow_nba.xml"
 		mydesc="TV show"
 		/>
-		
-	<myvideo
-		myid="1"
-		mytitle="NGƯỜI BÍ ẨN - MÙA 1"
-		myurlthumb="http://yt3.ggpht.com/-gNAASPHPqOY/AAAAAAAAAAI/AAAAAAAAAAA/a9Uh1DuHS2Y/s100-c-k-no/photo.jpg"
-		myvkey="tvshow_nba1.xml"
-		mydesc="TV show"
-		/>
-		
+	
 	<myvideo
 		myid="1"
 		mytitle="THE REMIX - HÒA ÂM ÁNH SÁNG"
@@ -26,11 +18,20 @@
 		/>
 	<myvideo
 		myid="1"
+		mytitle="Vietnam Idol 2015"
+		myurlthumb="http://yt3.ggpht.com/-Lpum5AtdPmk/AAAAAAAAAAI/AAAAAAAAAAA/y90HILn9J2M/s100-c-k-no/photo.jpg"
+		myvkey="tvshow_vnidol2015.xml"
+		mydesc="TV show"
+		/>
+		
+	<myvideo
+		myid="1"
 		mytitle="BƯỚC NHẢY HOÀN VŨ"
 		myurlthumb="http://yt3.ggpht.com/-ZoXYFEHKoHg/AAAAAAAAAAI/AAAAAAAAAAA/Rf9pfie00tU/s100-c-k-no/photo.jpg"
 		myvkey="tvshow_bnhv.xml"
 		mydesc="TV show"
 		/>
+		
 	<myvideo
 		myid="1"
 		mytitle="CẶP ĐÔI HOÀN HẢO"
@@ -38,4 +39,5 @@
 		myvkey="tvshow_cdhh.xml"
 		mydesc="TV show"
 		/>
+
 </mymenuvideo>
