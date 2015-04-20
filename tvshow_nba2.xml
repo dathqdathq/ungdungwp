@@ -3,6 +3,14 @@
 
 	<myvideo
 		myid="1"
+		mytitle="NGƯỜI BÍ ẨN 2015 - TẬP 6"
+		myurlthumb="http://i.ytimg.com/vi/Sh4tiz9NpZs/default.jpg"
+		myvkey="PLS7kCruMRlaWfXjkb9A3mP7VcrvYmMJ2B"
+		mydesc="NGƯỜI BÍ ẨN 2015"
+		/>
+		
+	<myvideo
+		myid="1"
 		mytitle="NGƯỜI BÍ ẨN 2015 - HIGHLIGHTS"
 		myurlthumb="http://i.ytimg.com/vi/Io7JF3Gi1sk/default.jpg"
 		myvkey="PLS7kCruMRlaUHEx42JUH0nOnWMCrXwd3P"
