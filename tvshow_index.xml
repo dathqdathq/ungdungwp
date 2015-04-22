@@ -15,6 +15,14 @@
 		myvkey="tvshow_nba1.xml"
 		mydesc="TV show"
 		/>
+		
+	<myvideo
+		myid="1"
+		mytitle="Tìm Kiếm Tài Năng Châu Á 2015"
+		myurlthumb="http://yt3.ggpht.com/-ppGZlTrvdBE/AAAAAAAAAAI/AAAAAAAAAAA/lu2mTJGD3o8/s100-c-k-no/photo.jpg"
+		myvkey="tvshow_asiagottalent2015.xml"
+		mydesc="TV show"
+		/>
 	
 	<myvideo
 		myid="1"
