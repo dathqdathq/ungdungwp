@@ -23,7 +23,13 @@
 		myvkey="tvshow_asiagottalent2015.xml"
 		mydesc="TV show"
 		/>
-	
+	<myvideo
+		myid="1"
+		mytitle="HTV AWARDS 2015"
+		myurlthumb="http://i.ytimg.com/vi/-IkV12h2IUs/mqdefault.jpg"
+		myvkey="tvshow_htvawards2015.xml"
+		mydesc="TV show"
+		/>
 	<myvideo
 		myid="1"
 		mytitle="THE REMIX - HÒA ÂM ÁNH SÁNG"
