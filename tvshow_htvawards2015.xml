@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<mymenuvideo>
+
+
+<myvideo
+	myid="1"
+	mytitle="HTV AWARDS 2015 - LIVESHOW 1"
+	myurlthumb="http://i.ytimg.com/vi/-IkV12h2IUs/default.jpg"
+	myvkey="PLy_TpcUT2LZsI1j7bN6QX_MwxGvVswykl"
+	mydesc="HTV AWARDS 2015"
+	/>
+<myvideo
+	myid="1"
+	mytitle="HTV AWARDS 2015 - LIVESHOW 2"
+	myurlthumb="http://i.ytimg.com/vi/6cWpRdSI2FE/default.jpg"
+	myvkey="PLy_TpcUT2LZu9Y-vJmmphkXtbFLIuluSv"
+	mydesc="HTV AWARDS 2015"
+	/>
+<myvideo
+	myid="1"
+	mytitle="HTV AWARDS 2015 - LIVESHOW 3"
+	myurlthumb="http://i.ytimg.com/vi/w1jIyPWF9No/default.jpg"
+	myvkey="PLy_TpcUT2LZsHBAwmOvfOVxfKEeQ3klXu"
+	mydesc="HTV AWARDS 2015"
+	/>	
+<myvideo
+	myid="1"
+	mytitle="HTV AWARDS 2015 - LIVESHOW 4"
+	myurlthumb="http://i.ytimg.com/vi/6IDowb1-agk/default.jpg"
+	myvkey="PLy_TpcUT2LZveuxKSLc_JkBIHI9kDAUX1"
+	mydesc="HTV AWARDS 2015"
+	/>
+
+</mymenuvideo>
