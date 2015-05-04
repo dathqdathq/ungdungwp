@@ -4,6 +4,14 @@
 	<myvideo
 	myid="1"
 	mytitle="Phút giây cảnh giác"
+	myurlthumb="http://i.ytimg.com/vi/Xrmov3nA-Zo/default.jpg"
+	myvkey="PL4ECkYOAuLKxeCLijSh9vlay4IO_-gY7E"
+	mydesc="(Phần 11)"
+	/>
+	
+	<myvideo
+	myid="1"
+	mytitle="Phút giây cảnh giác"
 	myurlthumb="http://i.ytimg.com/vi/nKTyGsUGP6Y/default.jpg"
 	myvkey="PLCNNYE9AS-HUvOMUCYGIN0YNWgE1tZrXs"
 	mydesc="(Phần 10)"
