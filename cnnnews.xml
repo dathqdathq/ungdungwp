@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <mymenuvideo>
-
+	
+<myvideo
+	myid="1"
+	mytitle="CNN STUDENT NEWS MAY 2015"
+	myurlthumb="http://i.ytimg.com/vi/rCn_SVo0ZqE/default.jpg"
+	myvkey="PLTc0nEfdp_f24E9H-wmLWTJk9I_3km07b"
+	mydesc="CNN Student News 2015"
+	/>
+	
 <myvideo
 	myid="1"
 	mytitle="CNN STUDENT NEWS APRIL 2015"
