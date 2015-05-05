@@ -3,6 +3,14 @@
 
 	<myvideo
 	myid="1"
+	mytitle="Chuyện về những con tàu đắm"
+	myurlthumb="http://i.ytimg.com/vi/YgTh1rT2lYQ/default.jpg"
+	myvkey="PLiiBa13ZLFn1cTVoVik_XlHuiJO6z2hpJ"
+	mydesc="VIDEOS HD-Thuyết minh"
+	/>
+
+	<myvideo
+	myid="1"
 	mytitle="Tri thức nhân loại"
 	myurlthumb="http://i.ytimg.com/vi/odyJuZK0GCs/default.jpg"
 	myvkey="PLiiBa13ZLFn05XX1wkVsM3T_k-iGJRZhO"
