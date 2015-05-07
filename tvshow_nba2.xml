@@ -3,6 +3,22 @@
 
 	<myvideo
 		myid="1"
+		mytitle="NGƯỜI BÍ ẨN 2015 - TẬP 8"
+		myurlthumb="http://i.ytimg.com/vi/3seNGgwLLWk/default.jpg"
+		myvkey="PLS7kCruMRlaWBbWroMy7iMNKgPHukzpH4"
+		mydesc="NGƯỜI BÍ ẨN 2015"
+		/>
+		
+	<myvideo
+		myid="1"
+		mytitle="NGƯỜI BÍ ẨN 2015 - TẬP 7"
+		myurlthumb="http://i.ytimg.com/vi/rmowygW0GGc/default.jpg"
+		myvkey="PLS7kCruMRlaVNCqN36HvQszifidltINz8"
+		mydesc="NGƯỜI BÍ ẨN 2015"
+		/>	
+		
+	<myvideo
+		myid="1"
 		mytitle="NGƯỜI BÍ ẨN 2015 - TẬP 6"
 		myurlthumb="http://i.ytimg.com/vi/Sh4tiz9NpZs/default.jpg"
 		myvkey="PLS7kCruMRlaWfXjkb9A3mP7VcrvYmMJ2B"
