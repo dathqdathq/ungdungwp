@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <mymenuvideo>
 
+
+<myvideo
+	myid="1"
+	mytitle="Vietnam Idol 2015 - TOP 10"
+	myurlthumb="http://i.ytimg.com/vi/9WOTFUMRdlY/default.jpg"
+	myvkey="PLsjXCXnaN8i_M4asc_wyb48GRHzjrtk4S"
+	mydesc="Vietnam Idol 2015"
+	/>
 	
 <myvideo
 	myid="1"
