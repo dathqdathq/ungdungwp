@@ -1,6 +1,26 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <mymenuvideo>
-
+	<myvideo
+	myid="1"
+	mytitle="Hồ sơ mật"
+	myurlthumb="http://i.ytimg.com/vi/KczMae4Qhf4/default.jpg"
+	myvkey="PLiiBa13ZLFn3leEWgK2uVLNLMO_xq8OYZ"
+	mydesc="VIDEOS HD-Thuyết minh"
+	/>
+	<myvideo
+	myid="1"
+	mytitle="Bí ẩn đại dương"
+	myurlthumb="http://i.ytimg.com/vi/nF-c2qYoHmA/default.jpg"
+	myvkey="PLiiBa13ZLFn0yPf_q9fUWxGlK8FQttYJl"
+	mydesc="VIDEOS HD-Thuyết minh"
+	/>
+	<myvideo
+	myid="1"
+	mytitle="Vẻ đẹp của tự nhiên"
+	myurlthumb="http://i.ytimg.com/vi/m6HppcNJ4bE/default.jpg"
+	myvkey="PLiiBa13ZLFn2cm9HyAWBP-k6HMpkZ8DNb"
+	mydesc="VIDEOS HD-Thuyết minh"
+	/>
 	<myvideo
 	myid="1"
 	mytitle="Chuyện về những con tàu đắm"
