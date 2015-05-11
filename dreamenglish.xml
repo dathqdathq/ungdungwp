@@ -2,6 +2,14 @@
 <mymenuvideo>
 
 	<myvideo
+		myid="1"
+		mytitle="Best of baby"
+		myurlthumb="http://i.ytimg.com/vi/ahccq3_dKrc/default.jpg"
+		myvkey="PLL4ReQQYwikTdMTotK58SBtQEKQHobOMs"
+		mydesc="Best of baby"
+		/>
+
+	<myvideo
 	myid="1"
 	mytitle="ABC Songs"
 	myurlthumb="http://i.ytimg.com/vi/5k521GcBOYw/default.jpg"
