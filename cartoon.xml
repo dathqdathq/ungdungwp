@@ -3,21 +3,21 @@
 
 <myvideo
 	myid="1"
-	mytitle="Tom and Jerry - FULL"
+	mytitle="Tom and Jerry - full"
 	myurlthumb="http://i.ytimg.com/vi/trMRj3fEMN8/default.jpg"
 	myvkey="PLL4ReQQYwikQIangdf3geKYghyZTxDTzi"
 	mydesc="Tom and Jerry"
 	/>
 <myvideo
 	myid="1"
-	mytitle="Tom and Jerry - collection 1"
+	mytitle="Tom and Jerry - part 1"
 	myurlthumb="http://i.ytimg.com/vi/rzYZ0_XgoR0/default.jpg"
 	myvkey="PL7XNMmgjgXn8VAnn9luZF0SYcUUjpc5Ri"
 	mydesc="Tom and Jerry"
 	/>
 <myvideo
 	myid="1"
-	mytitle="Tom and Jerry - collection 2"
+	mytitle="Tom and Jerry - part 2"
 	myurlthumb="http://i.ytimg.com/vi/y2Qwrq0Ncxs/default.jpg"
 	myvkey="PLL4ReQQYwikQHj9SEIhmjRXxmEXkgioXY"
 	mydesc="Tom and Jerry"
@@ -25,20 +25,26 @@
 
 <myvideo
 	myid="1"
-	mytitle="Oscar's Oasis collection"
-	myurlthumb="http://i.ytimg.com/vi/BGKH0rDGdPk/default.jpg"
-	myvkey="PLL4ReQQYwikTXSVU_wsVN7n2VKe4up0XF"
-	mydesc="Oscar's Oasis"
-	/>
-
-<myvideo
-	myid="1"
-	mytitle="Oscar's Oasis Full"
+	mytitle="Oscar's Oasis part 1"
 	myurlthumb="http://i.ytimg.com/vi/eM8iY-tco9k/default.jpg"
 	myvkey="PLbekB6Y6sLlO5qzSZ7oGz8jhsnFFEJIbR"
 	mydesc="Oscar's Oasis"
 	/>	
 
+<myvideo
+	myid="1"
+	mytitle="Oscar's Oasis part 2"
+	myurlthumb="http://i.ytimg.com/vi/ob_29dtsD9Y/default.jpg"
+	myvkey="PLL4ReQQYwikRf8xtzQDSmYEhi6CSTPSMp"
+	mydesc="Oscar's Oasis"
+	/>
+<myvideo
+	myid="1"
+	mytitle="Oscar's Oasis part 3"
+	myurlthumb="http://i.ytimg.com/vi/BGKH0rDGdPk/default.jpg"
+	myvkey="PLL4ReQQYwikTXSVU_wsVN7n2VKe4up0XF"
+	mydesc="Oscar's Oasis"
+	/>
 
 
 </mymenuvideo>
