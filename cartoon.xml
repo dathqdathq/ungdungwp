@@ -10,17 +10,35 @@
 	/>
 <myvideo
 	myid="1"
-	mytitle="Tom And Jerry Cartoon COLLECTION 1"
+	mytitle="Tom and Jerry - collection 1"
 	myurlthumb="http://i.ytimg.com/vi/rzYZ0_XgoR0/default.jpg"
 	myvkey="PL7XNMmgjgXn8VAnn9luZF0SYcUUjpc5Ri"
 	mydesc="Tom and Jerry"
 	/>
 <myvideo
 	myid="1"
-	mytitle="Tom And Jerry Cartoon COLLECTION 2"
+	mytitle="Tom and Jerry - collection 2"
 	myurlthumb="http://i.ytimg.com/vi/y2Qwrq0Ncxs/default.jpg"
 	myvkey="PLL4ReQQYwikQHj9SEIhmjRXxmEXkgioXY"
 	mydesc="Tom and Jerry"
 	/>	
+
+<myvideo
+	myid="1"
+	mytitle="Oscar's Oasis collection"
+	myurlthumb="http://i.ytimg.com/vi/BGKH0rDGdPk/default.jpg"
+	myvkey="PLL4ReQQYwikTXSVU_wsVN7n2VKe4up0XF"
+	mydesc="Oscar's Oasis"
+	/>
+
+<myvideo
+	myid="1"
+	mytitle="Oscar's Oasis Full"
+	myurlthumb="http://i.ytimg.com/vi/eM8iY-tco9k/default.jpg"
+	myvkey="PLbekB6Y6sLlO5qzSZ7oGz8jhsnFFEJIbR"
+	mydesc="Oscar's Oasis"
+	/>	
+
+
 
 </mymenuvideo>
