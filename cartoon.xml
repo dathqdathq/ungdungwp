@@ -2,11 +2,18 @@
 <mymenuvideo>
 <myvideo
 	myid="1"
-	mytitle="TUYỂN TẬP TRON BỘ DORAEMON HD"
-	myurlthumb="http://i.ytimg.com/vi/trMRj3fEMN8/default.jpg"
+	mytitle="TUYỂN TẬP TRON BỘ DORAEMON HD 01"
+	myurlthumb="http://i.ytimg.com/vi/t-8-qpV5Rtw/default.jpg"
 	myvkey="PLG7x4ctVQRHbW-2mOHejt54lNNpIFVlj-"
 	mydesc="DORAEMON - Thuyết Minh"
 	/>
+<myvideo
+	myid="1"
+	mytitle="TUYỂN TẬP TRON BỘ DORAEMON HD 02"
+	myurlthumb="http://i.ytimg.com/vi/Bw6jZdLmGUs/default.jpg"
+	myvkey="PLG7x4ctVQRHaIOLJ95q8ufI3C59YRiqis"
+	mydesc="DORAEMON - Sub"
+	/>	
 <myvideo
 	myid="1"
 	mytitle="Tom and Jerry - full"
