@@ -82,6 +82,15 @@
 
 <myvideo
 	myid="1"
+	mytitle="Masha and The Bear 03"
+	myurlthumb="http://i.ytimg.com/vi/n3zYAL3IoMM/default.jpg"
+	myvkey="PLXnIohISHNItkFAycUlVCYA9QlC2AUO7g"
+	mydesc="Masha and The Bear"
+	/>
+
+
+<myvideo
+	myid="1"
 	mytitle="Oscar's Oasis part 1"
 	myurlthumb="http://i.ytimg.com/vi/eM8iY-tco9k/default.jpg"
 	myvkey="PLbekB6Y6sLlO5qzSZ7oGz8jhsnFFEJIbR"
