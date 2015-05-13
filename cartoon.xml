@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <mymenuvideo>
+
 <myvideo
 	myid="1"
 	mytitle="Phim Hoạt Hình Chiếu Rạp 01"
@@ -92,6 +93,13 @@
 	mytitle="Hãy Đợi Đấy (Trọn Bộ 20 Tập)"
 	myurlthumb="http://i.ytimg.com/vi/ysK5o-VjvK8/default.jpg"
 	myvkey="PL901BF01F3EE82EEE"
+	mydesc="Hãy đợi đấy"
+	/>
+<myvideo
+	myid="1"
+	mytitle="Hãy Đợi Đấy 1969"
+	myurlthumb="http://i.ytimg.com/vi/IOqhnM02i8A/default.jpg"
+	myvkey="PLF5adXfEdosyrQT4wen4lmCii2PpkkBd3"
 	mydesc="Hãy đợi đấy"
 	/>
 
