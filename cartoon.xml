@@ -131,6 +131,14 @@
 
 <myvideo
 	myid="1"
+	mytitle="Oscar's Oasis - HD"
+	myurlthumb="http://i.ytimg.com/vi/N3EIqm8awDU/default.jpg"
+	myvkey="PLL4ReQQYwikSjWV3lGaGM1iMDYqeP1Kno"
+	mydesc="Full film"
+	/>		
+	
+<myvideo
+	myid="1"
 	mytitle="Oscar's Oasis"
 	myurlthumb="http://i.ytimg.com/vi/eM8iY-tco9k/default.jpg"
 	myvkey="PLbekB6Y6sLlO5qzSZ7oGz8jhsnFFEJIbR"
@@ -151,6 +159,32 @@
 	myvkey="PLL4ReQQYwikTXSVU_wsVN7n2VKe4up0XF"
 	mydesc="Phần 3"
 	/>
-
-
+<myvideo
+	myid="1"
+	mytitle="Oscar's Oasis"
+	myurlthumb="http://i.ytimg.com/vi/XRUMkD1-mW0/default.jpg"
+	myvkey="PLP8JJpOCukCGv2yT_8QHNHU_1FzAUePqJ"
+	mydesc="Phần 4"
+	/>
+<myvideo
+	myid="1"
+	mytitle="Oscar's Oasis"
+	myurlthumb="http://i.ytimg.com/vi/SzkWjVCo908/default.jpg"
+	myvkey="PLuXI3Obxh0OYruEbGKRb8sO-SvnL1XLmk"
+	mydesc="Phần 5"
+	/>	
+<myvideo
+	myid="1"
+	mytitle="Oscar's Oasis"
+	myurlthumb="http://i.ytimg.com/vi/98u75AgFgHQ/default.jpg"
+	myvkey="PL3vKQ5fcKbX--vjM716HS7F0nHua_EGPw"
+	mydesc="Phần 6"
+	/>		
+<myvideo
+	myid="1"
+	mytitle="Oscar's Oasis"
+	myurlthumb="http://i.ytimg.com/vi/UGyEmECMh5k/default.jpg"
+	myvkey="PLJUxhmWvEAH-m6gGBSlswaROiyyvNr4aL"
+	mydesc="Phần 7"
+	/>		
 </mymenuvideo>
