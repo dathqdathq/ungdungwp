@@ -70,7 +70,13 @@
 	myvkey="PLL4ReQQYwikQIangdf3geKYghyZTxDTzi"
 	mydesc="Tom and Jerry"
 	/>
-
+<myvideo
+	myid="1"
+	mytitle="Tom and Jerry HD - Chọn lọc"
+	myurlthumb="http://i.ytimg.com/vi/o2njV5Rvp7M/default.jpg"
+	myvkey="PLwp8m9anCLK3jmItMyLTgfNpM-526z8Cl"
+	mydesc="Tom and Jerry"
+	/>
 <myvideo
 	myid="1"
 	mytitle="Masha and the Bear"
