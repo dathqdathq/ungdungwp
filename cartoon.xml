@@ -1,5 +1,59 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <mymenuvideo>
+
+<myvideo
+	myid="1"
+	mytitle="Larva - HD"
+	myurlthumb="http://i.ytimg.com/vi/tid-by1Fnm0/default.jpg"
+	myvkey="PLL4ReQQYwikT4RCy_OVBnL14Lw5c3kYEw"
+	mydesc="Full - film"
+	/>
+
+<myvideo
+	myid="1"
+	mytitle="Larva - chọn lọc"
+	myurlthumb="http://i.ytimg.com/vi/tid-by1Fnm0/default.jpg"
+	myvkey="PL0cecY1uXJdCfPeCe4AebytbWq5vN89eT"
+	mydesc="Phần 1"
+	/>
+
+<myvideo
+	myid="1"
+	mytitle="Larva - chọn lọc"
+	myurlthumb="http://i.ytimg.com/vi/E6jzawQGbM4/default.jpg"
+	myvkey="PLL4ReQQYwikQsZQf-bXiYjudekWnfoIrs"
+	mydesc="Phần 2"
+	/>
+
+<myvideo
+	myid="1"
+	mytitle="Larva - chọn lọc"
+	myurlthumb="http://i.ytimg.com/vi/H2yC70LW78s/default.jpg"
+	myvkey="PL0cecY1uXJdD-W9ssFACs4Gnz_yWziC5U"
+	mydesc="Phần 3"
+	/>
+<myvideo
+	myid="1"
+	mytitle="Larva - chọn lọc"
+	myurlthumb="http://i.ytimg.com/vi/7rr_SWTRFMY/default.jpg"
+	myvkey="PL0cecY1uXJdBNq0IVrCdlaOa2K7k7H0FM"
+	mydesc="Phần 4"
+	/>
+<myvideo
+	myid="1"
+	mytitle="Larva - chọn lọc"
+	myurlthumb="http://i.ytimg.com/vi/RQkjO4vW4qQ/default.jpg"
+	myvkey="PL0cecY1uXJdCqOKqODmTETiJcFY7RoNG4"
+	mydesc="Phần 5"
+	/>	
+<myvideo
+	myid="1"
+	mytitle="Larva - chọn lọc"
+	myurlthumb="http://i.ytimg.com/vi/cEL7K9of55E/default.jpg"
+	myvkey="PLjULSdBF6OvRdE4C8mBmFLXrY9ENlU_bB"
+	mydesc="Phần 6"
+	/>
+
 <myvideo
 	myid="1"
 	mytitle="Hoạt hình - Mr Bean"
