@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <mymenuvideo>
 
-
+<myvideo
+	myid="1"
+	mytitle="Vietnam Idol 2015 - VÒNG STUDIO"
+	myurlthumb="http://i.ytimg.com/vi/p7fF2bzKsE4/default.jpg"
+	myvkey="PLm8YCCTGZf4XlGXtABrZeqPjapA2U0tT3"
+	mydesc="Vietnam Idol 2015"
+	/>
+	
 <myvideo
 	myid="1"
 	mytitle="Vietnam Idol 2015 - TOP 10"
