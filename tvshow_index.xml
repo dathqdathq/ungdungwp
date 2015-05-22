@@ -1,5 +1,12 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <mymenuvideo>
+	<myvideo
+		myid="1"
+		mytitle="Vietnam Idol 2015 - VÒNG STUDIO"
+		myurlthumb="http://yt3.ggpht.com/-Lpum5AtdPmk/AAAAAAAAAAI/AAAAAAAAAAA/y90HILn9J2M/s100-c-k-no/photo.jpg"
+		myvkey="tvshow_vnidol2015.xml"
+		mydesc="TV show"
+		/>
 	
 	<myvideo
 		myid="1"
@@ -37,15 +44,7 @@
 		myvkey="tvshow_remix.xml"
 		mydesc="TV show"
 		/>
-		
-	<myvideo
-		myid="1"
-		mytitle="Vietnam Idol 2015"
-		myurlthumb="http://yt3.ggpht.com/-Lpum5AtdPmk/AAAAAAAAAAI/AAAAAAAAAAA/y90HILn9J2M/s100-c-k-no/photo.jpg"
-		myvkey="tvshow_vnidol2015.xml"
-		mydesc="TV show"
-		/>
-	
+
 	<myvideo
 		myid="1"
 		mytitle="NGƯỜI ĐI XUYÊN TƯỜNG"
