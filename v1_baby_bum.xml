@@ -19,8 +19,32 @@
 	<myvideo
 		myid="1"
 		mytitle="Best of baby - Super Simple Songs"
-		myurlthumb="http://i.ytimg.com/vi/QZC5x0_EXYM/default.jpg"
-		myvkey="http://m.youtube.com/user/LittleBabyBum"
+		myurlthumb="http://yt3.ggpht.com/-nHzSx4QKfsY/AAAAAAAAAAI/AAAAAAAAAAA/o_0k7TejOiI/s100-c-k-no/photo.jpg"
+		myvkey="http://m.youtube.com/user/SuperSimpleSongs/featured"
+		mydesc="Best of baby"
+		/>
+		
+	<myvideo
+		myid="1"
+		mytitle="Best of baby - Super Simple ABCs"
+		myurlthumb="http://yt3.ggpht.com/-OMmu0IzLnto/AAAAAAAAAAI/AAAAAAAAAAA/pjUOpBUHIik/s100-c-k-no/photo.jpg"
+		myvkey="http://m.youtube.com/channel/UCp5Nhw2YMCMUemXC1oWTkkA"
+		mydesc="Best of baby"
+		/>
+		
+	<myvideo
+		myid="1"
+		mytitle="Best of baby - Super Simple Learning"
+		myurlthumb="http://yt3.ggpht.com/-D4DBMXmvD6Y/AAAAAAAAAAI/AAAAAAAAAAA/FzaqPqsbHBc/s100-c-k-no/photo.jpg"
+		myvkey="http://m.youtube.com/user/SuperSimpleLearning"
+		mydesc="Best of baby"
+		/>
+		
+	<myvideo
+		myid="1"
+		mytitle="Best of baby -  The Kids Club"
+		myurlthumb="http://yt3.ggpht.com/-4MW1_sI9kes/AAAAAAAAAAI/AAAAAAAAAAA/UvSPNO-uA0c/s100-c-k-no/photo.jpg"
+		myvkey="http://m.youtube.com/user/ChildrenGamesTV"
 		mydesc="Best of baby"
 		/>
 	
