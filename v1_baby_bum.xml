@@ -75,4 +75,18 @@
 		myvkey="http://m.youtube.com/user/checkgate"
 		mydesc="Best of baby"
 		/>	
+	<myvideo
+		myid="1"
+		mytitle="Best of baby - Raggs Tv"
+		myurlthumb="http://yt3.ggpht.com/-ooolvkNZNCQ/AAAAAAAAAAI/AAAAAAAAAAA/Z_RucnORKMw/s100-c-k-no/photo.jpg"
+		myvkey="http://m.youtube.com/user/raggs"
+		mydesc="Best of baby"
+		/>	
+	<myvideo
+		myid="1"
+		mytitle="Best of baby - All Babies Channel"
+		myurlthumb="http://yt3.ggpht.com/-TZ3cHpkuiOc/AAAAAAAAAAI/AAAAAAAAAAA/8KykRpdJj9Y/s100-c-k-no/photo.jpg"
+		myvkey="http://m.youtube.com/user/AllBabiesChannel"
+		mydesc="Best of baby"
+		/>	
 </mymenuvideo>
