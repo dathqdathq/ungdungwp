@@ -2,11 +2,20 @@
 <mymenuvideo>
 	<myvideo
 		myid="1"
-		mytitle="Best of baby"
+		mytitle="Best of baby - chu chu TV"
 		myurlthumb="http://i.ytimg.com/vi/ahccq3_dKrc/default.jpg"
 		myvkey="http://m.youtube.com/user/TheChuChuTV"
-		mydesc="chu chu TV"
+		mydesc="Best of baby"
 		/>
+		
+	<myvideo
+		myid="1"
+		mytitle="Best of baby - LittleBabyBum"
+		myurlthumb="http://i.ytimg.com/vi/UQthLMdsQak/default.jpg"
+		myvkey="http://m.youtube.com/user/LittleBabyBum"
+		mydesc="Best of baby"
+		/>
+		
 	<myvideo
 		myid="1"
 		mytitle="ABC and 123"
@@ -81,8 +90,6 @@
 		mydesc="karaoke versions"
 		/>		
 
-		
-		
 		
 	<myvideo
 		myid="11"
