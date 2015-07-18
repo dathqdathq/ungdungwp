@@ -2,7 +2,7 @@
 <mymenuvideo>
 	<myvideo
 		myid="1"
-		mytitle="Best of baby - chu chu TV"
+		mytitle="CHU CHU TV"
 		myurlthumb="http://i.ytimg.com/vi/ahccq3_dKrc/default.jpg"
 		myvkey="http://m.youtube.com/user/TheChuChuTV"
 		mydesc="Best of baby"
@@ -10,15 +10,23 @@
 		
 	<myvideo
 		myid="1"
-		mytitle="Best of baby - LittleBabyBum"
+		mytitle="Little Baby Bum"
 		myurlthumb="http://yt3.ggpht.com/-KLfbkE3zovQ/AAAAAAAAAAI/AAAAAAAAAAA/gMZ_6qxvEXw/s100-c-k-no/photo.jpg"
 		myvkey="http://m.youtube.com/user/LittleBabyBum"
+		mydesc="Best of baby"
+		/>
+
+	<myvideo
+		myid="1"
+		mytitle="Kids TV"
+		myurlthumb="http://yt3.ggpht.com/-Vas4UzOl0KE/AAAAAAAAAAI/AAAAAAAAAAA/_fWZBwq0qnA/s100-c-k-no/photo.jpg"
+		myvkey="http://m.youtube.com/channel/UC7Pq3Ko42YpkCB_Q4E981jw"
 		mydesc="Best of baby"
 		/>
 		
 	<myvideo
 		myid="1"
-		mytitle="Best of baby - Super Simple Songs"
+		mytitle="Super Simple Songs"
 		myurlthumb="http://yt3.ggpht.com/-nHzSx4QKfsY/AAAAAAAAAAI/AAAAAAAAAAA/o_0k7TejOiI/s100-c-k-no/photo.jpg"
 		myvkey="http://m.youtube.com/user/SuperSimpleSongs/featured"
 		mydesc="Best of baby"
@@ -26,7 +34,7 @@
 		
 	<myvideo
 		myid="1"
-		mytitle="Best of baby - Super Simple ABCs"
+		mytitle="Super Simple ABCs"
 		myurlthumb="http://yt3.ggpht.com/-OMmu0IzLnto/AAAAAAAAAAI/AAAAAAAAAAA/pjUOpBUHIik/s100-c-k-no/photo.jpg"
 		myvkey="http://m.youtube.com/channel/UCp5Nhw2YMCMUemXC1oWTkkA"
 		mydesc="Best of baby"
@@ -34,7 +42,7 @@
 		
 	<myvideo
 		myid="1"
-		mytitle="Best of baby - Super Simple Learning"
+		mytitle="Super Simple Learning"
 		myurlthumb="http://yt3.ggpht.com/-D4DBMXmvD6Y/AAAAAAAAAAI/AAAAAAAAAAA/FzaqPqsbHBc/s100-c-k-no/photo.jpg"
 		myvkey="http://m.youtube.com/user/SuperSimpleLearning"
 		mydesc="Best of baby"
@@ -42,49 +50,49 @@
 		
 	<myvideo
 		myid="1"
-		mytitle="Best of baby - The Kids Club"
+		mytitle="The Kids Club"
 		myurlthumb="http://yt3.ggpht.com/-4MW1_sI9kes/AAAAAAAAAAI/AAAAAAAAAAA/UvSPNO-uA0c/s100-c-k-no/photo.jpg"
 		myvkey="http://m.youtube.com/user/ChildrenGamesTV"
 		mydesc="Best of baby"
 		/>
 	<myvideo
 		myid="1"
-		mytitle="Best of baby - The Kids Club"
+		mytitle="Learning For Children"
 		myurlthumb="http://yt3.ggpht.com/-RERxDKtEZ7c/AAAAAAAAAAI/AAAAAAAAAAA/K1AooJ9oB-o/s100-c-k-no/photo.jpg"
 		myvkey="http://m.youtube.com/user/coilbook"
 		mydesc="Best of baby"
 		/>	
 	<myvideo
 		myid="1"
-		mytitle="Best of baby - KidsCamp"
+		mytitle="Kids Camp"
 		myurlthumb="http://yt3.ggpht.com/-A03YmBzQX9U/AAAAAAAAAAI/AAAAAAAAAAA/1_p_JKtoYj4/s100-c-k-no/photo.jpg"
 		myvkey="http://m.youtube.com/user/kidscamp"
 		mydesc="Best of baby"
 		/>	
 	<myvideo
 		myid="1"
-		mytitle="Best of baby - Sing Along"
+		mytitle="Sing Along"
 		myurlthumb="http://yt3.ggpht.com/-9o97ncBQ5Fg/AAAAAAAAAAI/AAAAAAAAAAA/gAlxg3tbMPY/s100-c-k-no/photo.jpg"
 		myvkey="http://m.youtube.com/user/HooplaKidzSingalong"
 		mydesc="Best of baby"
 		/>	
 	<myvideo
 		myid="1"
-		mytitle="Best of baby - ABCkidTV"
+		mytitle="ABCkidTV"
 		myurlthumb="http://yt3.ggpht.com/-gn0wGBOL4hE/AAAAAAAAAAI/AAAAAAAAAAA/RRCSsKhYNL8/s100-c-k-no/photo.jpg"
 		myvkey="http://m.youtube.com/user/checkgate"
 		mydesc="Best of baby"
 		/>	
 	<myvideo
 		myid="1"
-		mytitle="Best of baby - Raggs Tv"
+		mytitle="Raggs Tv"
 		myurlthumb="http://yt3.ggpht.com/-ooolvkNZNCQ/AAAAAAAAAAI/AAAAAAAAAAA/Z_RucnORKMw/s100-c-k-no/photo.jpg"
 		myvkey="http://m.youtube.com/user/raggs"
 		mydesc="Best of baby"
 		/>	
 	<myvideo
 		myid="1"
-		mytitle="Best of baby - All Babies Channel"
+		mytitle="All Babies Channel"
 		myurlthumb="http://yt3.ggpht.com/-TZ3cHpkuiOc/AAAAAAAAAAI/AAAAAAAAAAA/8KykRpdJj9Y/s100-c-k-no/photo.jpg"
 		myvkey="http://m.youtube.com/user/AllBabiesChannel"
 		mydesc="Best of baby"
