@@ -24,54 +24,5 @@
 	myvkey="http://m.youtube.com/results?search_query=hoat+hinh+chieu+rap&page=1"
 	mydesc="Hoạt hình chiếu rạp"
 	/>
-	
-<myvideo
-	myid="1"
-	mytitle="Doremon HD"
-	myurlthumb="http://i.ytimg.com/vi/70jQL44ckZs/default.jpg"
-	myvkey="PLG7x4ctVQRHbW-2mOHejt54lNNpIFVlj-"
-	mydesc="Thuy?t Minh - Ph?n 1"
-	/>
-
-<myvideo
-	myid="1"
-	mytitle="Naruto 2015"
-	myurlthumb="http://i.ytimg.com/vi/-dtZW2Ydz6g/default.jpg"
-	myvkey="PLx8LmoBmBfU4s6mCIFTbc8RwTGaPkEx6z"
-	mydesc="Ph?n 1"
-	/>	
-
-<myvideo
-	myid="1"
-	mytitle="Tom and Jerry HD"
-	myurlthumb="http://i.ytimg.com/vi/F-WEszqgKLY/default.jpg"
-	myvkey="PLL4ReQQYwikQIangdf3geKYghyZTxDTzi"
-	mydesc="Tom and Jerry"
-	/>
-
-<myvideo
-	myid="1"
-	mytitle="Masha and the Bear"
-	myurlthumb="http://i.ytimg.com/vi/CSdGB_r6ZkQ/default.jpg"
-	myvkey="PLXnIohISHNIuH97pzQYV5O96-Q7-VwhRV"
-	mydesc="Ph?n 1"
-	/>
-
-<myvideo
-	myid="1"
-	mytitle="Oscar's Oasis"
-	myurlthumb="http://i.ytimg.com/vi/eM8iY-tco9k/default.jpg"
-	myvkey="PLbekB6Y6sLlO5qzSZ7oGz8jhsnFFEJIbR"
-	mydesc="Ph?n 1"
-	/>	
-
-<myvideo
-	myid="1"
-	mytitle="Oscar's Oasis"
-	myurlthumb="http://i.ytimg.com/vi/ob_29dtsD9Y/default.jpg"
-	myvkey="PLL4ReQQYwikRf8xtzQDSmYEhi6CSTPSMp"
-	mydesc="Ph?n 2"
-	/>
-
 
 </mymenuvideo>
