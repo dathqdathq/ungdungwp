@@ -9,20 +9,4 @@
 	mydesc="Full film"
 	/>
 
-<myvideo
-	myid="1"
-	mytitle="Mr Bean - Cartoon"
-	myurlthumb="http://yt3.ggpht.com/-FGK_l0_maSo/AAAAAAAAAAI/AAAAAAAAAAA/sLH-ciTqG0U/s100-c-k-no/photo.jpg"
-	myvkey="http://m.youtube.com/playlist?list=PL0D06E5405DF12C27"
-	mydesc="Mr Bean"
-	/>
-	
-<myvideo
-	myid="1"
-	mytitle="Hoạt hình chiếu rạp"
-	myurlthumb="http://yt3.ggpht.com/-DwUiuRuaagY/AAAAAAAAAAI/AAAAAAAAAAA/dkea1Yag5Bo/s100-c-k-no/photo.jpg"
-	myvkey="http://m.youtube.com/results?search_query=hoat+hinh+chieu+rap&page=1"
-	mydesc="Hoạt hình chiếu rạp"
-	/>
-
 </mymenuvideo>
