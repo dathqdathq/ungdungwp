@@ -3,19 +3,42 @@
 
 <myvideo
 	myid="1"
-	mytitle="Larva - play list"
+	mytitle="Tom and Jerry"
+	myurlthumb="http://i.ytimg.com/i/MTfZaa38twBF9bWN9cOy1A/mq1.jpg"
+	myvkey="http://m.youtube.com/results?search_query=tom+and+jerry+playlist"
+	mydesc="Tom and Jerry"
+	/>
+<myvideo
+	myid="1"
+	mytitle="Doremon"
+	myurlthumb="http://yt3.ggpht.com/-0zzYb_5BIyE/AAAAAAAAAAI/AAAAAAAAAAA/57NvJIgCpzo/s100-c-k-no/photo.jpg"
+	myvkey="http://m.youtube.com/results?search_query=doraemon+playlist"
+	mydesc="Doremon"
+	/>
+	
+<myvideo
+	myid="1"
+	mytitle="Larva"
 	myurlthumb="http://yt3.ggpht.com/-kh4IFWxQkoM/AAAAAAAAAAI/AAAAAAAAAAA/yVnBDBLTQ2M/s100-c-k-no/photo.jpg"
 	myvkey="http://m.youtube.com/results?search_query=larva+playlist"
-	mydesc="Full film"
+	mydesc="Larva"
 	/>
 
 <myvideo
 	myid="1"
-	mytitle="Mr Bean - Cartoon"
+	mytitle="Mr Bean"
 	myurlthumb="http://yt3.ggpht.com/-FGK_l0_maSo/AAAAAAAAAAI/AAAAAAAAAAA/sLH-ciTqG0U/s100-c-k-no/photo.jpg"
 	myvkey="http://m.youtube.com/playlist?list=PL0D06E5405DF12C27"
 	mydesc="Mr Bean"
 	/>
+
+<myvideo
+	myid="1"
+	mytitle="Masha and The Bear"
+	myurlthumb="https://yt3.ggpht.com/-2djpgJmkcMM/AAAAAAAAAAI/AAAAAAAAAAA/CjhuvZ6bgww/s100-c-k-no/photo.jpg"
+	myvkey="http://m.youtube.com/user/MashaBearEN"
+	mydesc="Masha and The Bear"
+	/>	
 	
 <myvideo
 	myid="1"
