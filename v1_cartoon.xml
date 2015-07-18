@@ -15,7 +15,13 @@
 	myvkey="http://m.youtube.com/results?search_query=doraemon+playlist"
 	mydesc="Doremon"
 	/>
-	
+<myvideo
+	myid="1"
+	mytitle="Naruto và Công chúa Ori"
+	myurlthumb="http://yt3.ggpht.com/-laHS7wmsjfQ/AAAAAAAAAAI/AAAAAAAAAAA/vIQoI_9wwEQ/s100-c-k-no/photo.jpg"
+	myvkey="http://m.youtube.com/channel/UCyhZ2I2w5X0O9bDuESyqocQ/playlists"
+	mydesc="Naruto và Công chúa Ori"
+	/>	
 <myvideo
 	myid="1"
 	mytitle="Larva"
@@ -24,6 +30,14 @@
 	mydesc="Larva"
 	/>
 
+<myvideo
+	myid="1"
+	mytitle="Oscar's Oasis"
+	myurlthumb="http://yt3.ggpht.com/-iGSw53VgX9g/AAAAAAAAAAI/AAAAAAAAAAA/_EO1CROlOHg/s100-c-k-no/photo.jpg"
+	myvkey="http://m.youtube.com/user/OscarOasisFullHD/videos"
+	mydesc="Oscar's Oasis"
+	/>
+	
 <myvideo
 	myid="1"
 	mytitle="Mr Bean"
