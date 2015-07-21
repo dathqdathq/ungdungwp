@@ -17,6 +17,13 @@
 	/>	
 <myvideo
 	myid="1"
+	mytitle="Tây du ký"
+	myurlthumb="http//i.ytimg.com/vi/OpG87RfZONg/default.jpg"
+	myvkey="http://m.youtube.com/playlist?list=PLjYFyB6kKebeoOpp_z3v41dIn0dd_j0WS"
+	mydesc="Tây du ký"
+	/>	
+<myvideo
+	myid="1"
 	mytitle="Doremon"
 	myurlthumb="http://yt3.ggpht.com/-0zzYb_5BIyE/AAAAAAAAAAI/AAAAAAAAAAA/57NvJIgCpzo/s100-c-k-no/photo.jpg"
 	myvkey="http://m.youtube.com/results?search_query=doraemon+playlist"
