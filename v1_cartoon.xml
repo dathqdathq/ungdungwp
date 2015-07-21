@@ -17,6 +17,13 @@
 	/>	
 <myvideo
 	myid="1"
+	mytitle="Phim truyện cổ tích"
+	myurlthumb="http//i.ytimg.com/vi/z1V5xv1uOLQ/default.jpg"
+	myvkey="http://m.youtube.com/channel/UC1o2_2oNn-H3LAliK0F0uoQ/videos"
+	mydesc="Phim truyện cổ tích"
+	/>	
+<myvideo
+	myid="1"
 	mytitle="Tây du ký"
 	myurlthumb="http//i.ytimg.com/vi/OpG87RfZONg/default.jpg"
 	myvkey="http://m.youtube.com/playlist?list=PLjYFyB6kKebeoOpp_z3v41dIn0dd_j0WS"
