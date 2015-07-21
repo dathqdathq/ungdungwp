@@ -3,6 +3,46 @@
 
 	<myvideo
 	myid="1"
+	mytitle="Bản Tin 113 mới nhất"
+	myurlthumb="http://yt3.ggpht.com/-TPBmcluxhPA/AAAAAAAAAAI/AAAAAAAAAAA/1MMpJlVBGOA/s100-c-k-no/photo.jpg"
+	myvkey="http://m.youtube.com/user/bantin113online"
+	mydesc="Bản Tin 113 mới nhất"
+	/>
+
+	<myvideo
+	myid="1"
+	mytitle="Bản Tin 113 Online"
+	myurlthumb="http://yt3.ggpht.com/-ZLTr3ew_1qU/AAAAAAAAAAI/AAAAAAAAAAA/Dg-bwUtePBU/s100-c-k-no/photo.jpg"
+	myvkey="http://m.youtube.com/channel/UChJgeL4sIWGu2WbNEXQ76NA/playlists"
+	mydesc="Bản Tin 113 Online"
+	/>
+
+	<myvideo
+	myid="1"
+	mytitle="KÊNH - Phút giây cảnh giác"
+	myurlthumb="http://i.ytimg.com/vi/nKTyGsUGP6Y/default.jpg"
+	myvkey="http://m.youtube.com/channel/UCWLb4OYx7nQIHWIEntU6POg/feed"
+	mydesc="KÊNH - Phút giây cảnh giác"
+	/>
+
+	<myvideo
+	myid="1"
+	mytitle="KÊNH - Câu chuyện cảnh giác"
+	myurlthumb="http://i.ytimg.com/vi/Om71SKfu-30/default.jpg"
+	myvkey="http://m.youtube.com/channel/UC7g7qN_hH06diODPLlPPqKg/featured"
+	mydesc="KÊNH - Câu chuyện cảnh giác"
+	/>
+	
+	<myvideo
+	myid="1"
+	mytitle="Chuyện cảnh giác"
+	myurlthumb="http://i.ytimg.com/vi/oj-4_ADeoY4/default.jpg"
+	myvkey="http://m.youtube.com/playlist?list=PLrBAQg86hGY9EWciyB0fJn4jVl0pRPD5R"
+	mydesc="Chuyện cảnh giác"
+	/>
+	
+	<myvideo
+	myid="1"
 	mytitle="Phút giây cảnh giác"
 	myurlthumb="http://i.ytimg.com/vi/Xrmov3nA-Zo/default.jpg"
 	myvkey="http://m.youtube.com/playlist?list=PL4ECkYOAuLKxeCLijSh9vlay4IO_-gY7E"
@@ -20,27 +60,10 @@
 	<myvideo
 	myid="1"
 	mytitle="Phút giây cảnh giác"
-	myurlthumb="http://i.ytimg.com/vi/Y5MNg4s_W8Q/default.jpg"
-	myvkey="http://m.youtube.com/playlist?list=PLX_LDjCw7WQ9gwaSwsvu6y6sIc6ERahrK"
-	mydesc="(Phần 09)"
-	/>
-	
-	<myvideo
-	myid="1"
-	mytitle="Phút giây cảnh giác"
 	myurlthumb="http://i.ytimg.com/vi/06WAMz3I5TY/default.jpg"
 	myvkey="http://m.youtube.com/playlist?list=PLCNNYE9AS-HWQuFDkr96Hv-gFjCOGxjiN"
 	mydesc="(Phần 08)"
 	/>
-	
-	<myvideo
-	myid="1"
-	mytitle="Phút giây cảnh giác "
-	myurlthumb="http://i.ytimg.com/vi/y9NBJMvdD2w/default.jpg"
-	myvkey="http://m.youtube.com/playlist?list=PL_-JBJypTUGKl-SGJ3unfew9YkW28dpPY"
-	mydesc="(Phần 07)"
-	/>
-
 
 	<myvideo
 	myid="1"
