@@ -3,11 +3,28 @@
 
 <myvideo
 	myid="1"
+	mytitle="Hoạt hình lồng tiếng"
+	myurlthumb="http://yt3.ggpht.com/-XaoSaXHMHuE/AAAAAAAAAAI/AAAAAAAAAAA/8VM8PLJv4m0/s100-c-k-no/photo.jpg"
+	myvkey="http://m.youtube.com/channel/UC2gbC7ro7c3Hy6GiqUP0kEw/featured"
+	mydesc="Hoạt hình lồng tiếng"
+	/>
+
+<myvideo
+	myid="1"
+	mytitle="Tế Điên Hòa Thượng Tế Công"
+	myurlthumb="http://i.ytimg.com/vi/lqT6gfQLBdY/default.jpg"
+	myvkey="http://m.youtube.com/playlist?list=PLz2ksDpasnENc7CkCT7PlhA_1cWQQY9v_"
+	mydesc="Full Thuyết Minh"
+	/>
+
+<myvideo
+	myid="1"
 	mytitle="Tom and Jerry"
 	myurlthumb="http://yt3.ggpht.com/-SFGEd5BPd08/AAAAAAAAAAI/AAAAAAAAAAA/ukG3fvosAe4/s100-c-k-no/photo.jpg"
 	myvkey="http://m.youtube.com/results?search_query=tom+and+jerry+playlist"
 	mydesc="Tom and Jerry"
 	/>
+	
 <myvideo
 	myid="1"
 	mytitle="Hãy đợi dấy - nu pogodi"
@@ -52,16 +69,23 @@
 	/>	
 <myvideo
 	myid="1"
-	mytitle="Naruto và Công chúa Ori"
-	myurlthumb="http://yt3.ggpht.com/-laHS7wmsjfQ/AAAAAAAAAAI/AAAAAAAAAAA/vIQoI_9wwEQ/s100-c-k-no/photo.jpg"
-	myvkey="http://m.youtube.com/channel/UCyhZ2I2w5X0O9bDuESyqocQ/playlists"
-	mydesc="Naruto và Công chúa Ori"
+	mytitle="Công Chúa Ori Full [HTV3 Lồng tiếng]"
+	myurlthumb="http://i.ytimg.com/vi/yzSCj4l2jMo/default.jpg"
+	myvkey="http://m.youtube.com/playlist?list=PLz2ksDpasnEMmSvii3J0fdl-2xm6ew6En"
+	mydesc="[HTV3 Lồng tiếng]"
+	/>
+<myvideo
+	myid="1"
+	mytitle="Công Chúa Ori Phần 2 Full [HTV3 Lồng tiếng]"
+	myurlthumb="http//i.ytimg.com/vi/QPVHDGGJw_g/default.jpg"
+	myvkey="http://m.youtube.com/playlist?list=PLz2ksDpasnEPOQNuKqA8hrqS5JBOC-Pr0"
+	mydesc="[HTV3 Lồng tiếng]"
 	/>	
 <myvideo
 	myid="1"
 	mytitle="Pokemon [thuyết minh]"
-	myurlthumb="http://yt3.ggpht.com/-y05u8x0Ij38/AAAAAAAAAAI/AAAAAAAAAAA/946u8VefO2k/s100-c-k-no/photo.jpg"
-	myvkey="http://m.youtube.com/channel/UCGHQOuIHTkLRKjwgTMEyDDA/feed"
+	myurlthumb="http://yt3.ggpht.com/-1zKMMoxvHkI/AAAAAAAAAAI/AAAAAAAAAAA/wUCfhC-49AA/s100-c-k-no/photo.jpg"
+	myvkey="http://m.youtube.com/channel/UCwjCoNcUrP_LZJGXPBQtKlQ/videos"
 	mydesc="Pokemon [thuyết minh]"
 	/>	
 <myvideo
