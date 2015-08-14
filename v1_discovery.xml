@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <mymenuvideo>
-
+<myvideo
+	myid="1"
+	mytitle="NatGeo Tiếng Việt"
+	myurlthumb="http://yt3.ggpht.com/-yysXarU-dZg/AAAAAAAAAAI/AAAAAAAAAAA/2sL0F9lv70M/s100-c-k-no/photo.jpg"
+	myvkey="http://m.youtube.com/channel/UCSTTmIDaU5u6KdumGdvbURw"
+	mydesc="NatGeo Tiếng Việt"
+	/>
 
 	<myvideo
 	myid="1"
