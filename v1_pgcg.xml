@@ -44,14 +44,6 @@
 	<myvideo
 	myid="1"
 	mytitle="Phút giây cảnh giác"
-	myurlthumb="http://i.ytimg.com/vi/Xrmov3nA-Zo/default.jpg"
-	myvkey="http://m.youtube.com/playlist?list=PL4ECkYOAuLKxeCLijSh9vlay4IO_-gY7E"
-	mydesc="(Phần 11)"
-	/>
-	
-	<myvideo
-	myid="1"
-	mytitle="Phút giây cảnh giác"
 	myurlthumb="http://i.ytimg.com/vi/nKTyGsUGP6Y/default.jpg"
 	myvkey="http://m.youtube.com/playlist?list=PLCNNYE9AS-HUvOMUCYGIN0YNWgE1tZrXs"
 	mydesc="(Phần 10)"
@@ -113,46 +105,4 @@
 	mydesc="(Phần 01)"
 	/>
 
-	<myvideo
-	myid="1"
-	mytitle="10 màn đóng kịch trộm điện thoại"
-	myurlthumb="http://i.ytimg.com/vi/cGiB3sXt_NM/default.jpg"
-	myvkey="http://m.youtube.com/playlist?list=PLlF3XFbtGkWrI93rQrPhdEM7TnJvuQmb8"
-	mydesc="Trộm điện thoại"
-	/>
-	
-	<myvideo
-	myid="1"
-	mytitle="Những vụ trộm cướp cười ra nước mắt"
-	myurlthumb="http://i.ytimg.com/vi/FQT0lG37Nnk/default.jpg"
-	myvkey="http://m.youtube.com/playlist?list=PLlF3XFbtGkWrAuTYdH-t3Uj5uEOSZfTca"
-	mydesc="Những vụ trộm cướp cười ra nước mắt"
-	/>
-
-		
-	<myvideo
-	myid="1"
-	mytitle="Trộm cướp táo bạo"
-	myurlthumb="http://i.ytimg.com/vi/BR0EVcOsQvw/default.jpg"
-	myvkey="http://m.youtube.com/playlist?list=PLlF3XFbtGkWpon_dXsH3A_hUYK6f6q2C0"
-	mydesc="Trộm cướp táo bạo"
-	/>
-	
-		
-	<myvideo
-	myid="1"
-	mytitle="Những vụ hiếp dâm chấn động"
-	myurlthumb="http://i.ytimg.com/vi/dWZWqzOY3c8/default.jpg"
-	myvkey="http://m.youtube.com/playlist?list=PLlF3XFbtGkWoito7H3J1FTMe6w3yEUSY0"
-	mydesc="Những vụ hiếp dâm chấn động"
-	/>
-	
-	<myvideo
-	myid="1"
-	mytitle="Top clip hot tin tức"
-	myurlthumb="http://i.ytimg.com/vi/Va0SeiZcprI/default.jpg"
-	myvkey="http://m.youtube.com/playlist?list=PLlF3XFbtGkWrTxmjHCrDdqt7yRJDgJ8p-"
-	mydesc="Top clip hot"
-	/>
-	
 </mymenuvideo>
