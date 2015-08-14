@@ -11,6 +11,14 @@
 
 	<myvideo
 	myid="1"
+	mytitle="HTV 60s"
+	myurlthumb="http://yt3.ggpht.com/-SL5Mop-eEwQ/AAAAAAAAAAI/AAAAAAAAAAA/QQgF5YpNkiE/s100-c-k-no/photo.jpg"
+	myvkey="http://m.youtube.com/channel/UCwR8TMlstPROB3idhYIdd5g"
+	mydesc="HTV 60s"
+	/>
+
+	<myvideo
+	myid="1"
 	mytitle="Truyền Hình ANTV"
 	myurlthumb="http://yt3.ggpht.com/-eae3lgWxS98/AAAAAAAAAAI/AAAAAAAAAAA/iIaBgEPj2go/s100-c-k-no/photo.jpg"
 	myvkey="http://m.youtube.com/channel/UCZH0MInzM_SQahQCU0j9_wg"
