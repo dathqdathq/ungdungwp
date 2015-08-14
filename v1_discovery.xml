@@ -34,10 +34,10 @@
 	/>	
 	<myvideo
 	myid="1"
-	mytitle="Tri thức nhân loại - HD"
-	myurlthumb="http://yt3.ggpht.com/-xdi0bu8MrUs/AAAAAAAAAAI/AAAAAAAAAAA/_Exlg_9P9P0/s100-c-k-no/photo.jpg"
-	myvkey="http://m.youtube.com/channel/UCRA7O-cwfmsd33S3LLpHFlA"
-	mydesc="Tri thức nhân loại - HD"
+	mytitle="Discovery Tiếng Việt"
+	myurlthumb="http://yt3.ggpht.com/-wkHZWO0_lac/AAAAAAAAAAI/AAAAAAAAAAA/cHNoJuvzwmI/s100-c-k-no/photo.jpg"
+	myvkey="http://m.youtube.com/user/nvbtube4474"
+	mydesc="Discovery Tiếng Việt"
 	/>
 	
 	<myvideo
@@ -90,23 +90,6 @@
 	mytitle="100 Khám phá vĩ đại của nhân loại"
 	myurlthumb="http://i.ytimg.com/vi/naEqGXEzpbs/default.jpg"
 	myvkey="http://m.youtube.com/playlist?list=PLiiBa13ZLFn2B6zF7PnX2_aOPibZ29Vvq"
-	mydesc="VIDEOS HD-Thuyết minh"
-	/>
-
-	 <myvideo
-	    myid="6"
-	    mytitle="Bí mật thế kỷ"
-	    myurlthumb="http://i.ytimg.com/vi/9yj8fpILUXk/default.jpg"
-	    myvkey ="PLiiBa13ZLFn2LjSJmOB7DMAs9rcbvjgI5"
-	    mydesc="VIDEOS HD-Thuyết minh"
-	  />
-
-
-	<myvideo
-	myid="1"
-	mytitle="Mỗi sợ hãi kinh hoàng"
-	myurlthumb="http://i.ytimg.com/vi/s9gAB3SsCnQ/default.jpg"
-	myvkey="http://m.youtube.com/playlist?list=PLiiBa13ZLFn2_o8RG4D9KRog8srsgQ1Uh"
 	mydesc="VIDEOS HD-Thuyết minh"
 	/>
 
@@ -166,29 +149,6 @@
 	mydesc="VIDEOS HD-Thuyết minh"
 	/>
 
-	<myvideo
-	myid="1"
-	mytitle="Trái đất : Những hậu quả thảm khốc"
-	myurlthumb="http://i.ytimg.com/vi/vJ0Sg-Bw_To/default.jpg"
-	myvkey="http://m.youtube.com/playlist?list=PLiiBa13ZLFn1capPaClXNq4HFm1NFDRhz"
-	mydesc="VIDEOS HD-Thuyết minh"
-	/>
-
-	<myvideo
-	myid="1"
-	mytitle="Khám phá vũ trụ"
-	myurlthumb="http://i.ytimg.com/vi/rMFuQ7HQWiw/default.jpg"
-	myvkey="http://m.youtube.com/playlist?list=PLiiBa13ZLFn0TRJ8u2ejzh2iudTdADDMq"
-	mydesc="VIDEOS HD-Thuyết minh"
-	/>
-
-	<myvideo
-	myid="1"
-	mytitle="Những công trình vĩ đại"
-	myurlthumb="http://i.ytimg.com/vi/TD1aeX7MAvk/default.jpg"
-	myvkey="http://m.youtube.com/playlist?list=PLiiBa13ZLFn0w6CJdHZIspOYjiq0BVOIz"
-	mydesc="VIDEOS HD-Thuyết minh"
-	/>
 
 	<myvideo
 	myid="1"
@@ -212,14 +172,6 @@
 	myurlthumb="http://i.ytimg.com/vi/rYpWwQt-g8s/default.jpg"
 	myvkey="http://m.youtube.com/playlist?list=PLiiBa13ZLFn2tN-xV3IZbdH7bjVFdS-VU"
 	mydesc="VIDEOS HD-Thuyết minh"
-	/>
-
-	<myvideo
-		myid="1"
-		mytitle="Những cỗ máy khổng lồ"
-		myurlthumb="http://i.ytimg.com/vi/Uo_4wHaBh40/default.jpg"
-		myvkey="http://m.youtube.com/playlist?list=PLiiBa13ZLFn07zIes_Bt0aIynfLOn4czQ"
-		mydesc="VIDEOS HD-Thuyết minh"
 	/>
 
 
@@ -287,13 +239,6 @@
     myvkey ="PLiiBa13ZLFn3TZrfkLnHS60DkpQzANaRZ"
     mydesc="VIDEOS HD-Thuyết minh"
   />
-  
-   <myvideo
-    myid="10"
-    mytitle="Đội hộ tống Đại Tây Dương"
-    myurlthumb="http://i.ytimg.com/vi/xaU6mEyBFUQ/default.jpg"
-    myvkey ="PLiiBa13ZLFn0h1naLOEIg4vLbX7d3YBXs"
-    mydesc="VIDEOS HD-Thuyết minh"
-  />
+ 
 
 </mymenuvideo>
