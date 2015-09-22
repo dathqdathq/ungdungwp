@@ -3,7 +3,23 @@
 	
 	<myvideo
 		myid="1"
-		mytitle=" Nursery Rhymes ABC TV"
+		mytitle="Wheels On The Bus Children's"
+		myurlthumb="http://yt3.ggpht.com/-7VbLvqnmCTs/AAAAAAAAAAI/AAAAAAAAAAA/P96kDGVC80I/s100-c-k-no/photo.jpg"
+		myvkey="http://m.youtube.com/user/wheelsonthebususa"
+		mydesc="Best of baby"
+		/>
+	
+	<myvideo
+		myid="1"
+		mytitle="Kids Animal Channel"
+		myurlthumb="http://yt3.ggpht.com/-9wTC-JCukjc/AAAAAAAAAAI/AAAAAAAAAAA/EqtzN1DW6HA/s100-c-k-no/photo.jpg"
+		myvkey="http://m.youtube.com/channel/UCS6hLNMMXi77SajUIvKGx5g"
+		mydesc="Best of baby"
+		/>
+	
+	<myvideo
+		myid="1"
+		mytitle="Nursery Rhymes ABC TV"
 		myurlthumb="http://yt3.ggpht.com/-BPO6jTG7M2A/AAAAAAAAAAI/AAAAAAAAAAA/fyUDG8qy4Rk/s100-c-k-no/photo.jpg"
 		myvkey="http://m.youtube.com/channel/UCv7TYWhF5jhtuY3FDPf06Aw/featured"
 		mydesc="Best of baby"
