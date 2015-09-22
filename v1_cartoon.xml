@@ -3,6 +3,14 @@
 
 <myvideo
 	myid="1"
+	mytitle="Oscar's Oasis"
+	myurlthumb="http://yt3.ggpht.com/-aVU5Dym2rYI/AAAAAAAAAAI/AAAAAAAAAAA/sRR6KJYPVkw/s100-c-k-no/photo.jpg"
+	myvkey="http://m.youtube.com/user/avalocartoon"
+	mydesc="Oscar's Oasis"
+	/>
+
+<myvideo
+	myid="1"
 	mytitle="Hoạt hình lồng tiếng"
 	myurlthumb="http://yt3.ggpht.com/-XaoSaXHMHuE/AAAAAAAAAAI/AAAAAAAAAAA/8VM8PLJv4m0/s100-c-k-no/photo.jpg"
 	myvkey="http://m.youtube.com/channel/UCnAxUR571zHZgSpu7jF8jyg/playlists"
@@ -20,7 +28,7 @@
 <myvideo
 	myid="1"
 	mytitle="Tom and Jerry"
-	myurlthumb="http://yt3.ggpht.com/-SFGEd5BPd08/AAAAAAAAAAI/AAAAAAAAAAA/ukG3fvosAe4/s100-c-k-no/photo.jpg"
+	myurlthumb="http://i.ytimg.com/i/MTfZaa38twBF9bWN9cOy1A/mq1.jpg"
 	myvkey="http://m.youtube.com/results?search_query=tom+and+jerry+playlist"
 	mydesc="Tom and Jerry"
 	/>
@@ -96,14 +104,6 @@
 	mydesc="Larva"
 	/>
 
-<myvideo
-	myid="1"
-	mytitle="Oscar's Oasis"
-	myurlthumb="http://yt3.ggpht.com/-iGSw53VgX9g/AAAAAAAAAAI/AAAAAAAAAAA/_EO1CROlOHg/s100-c-k-no/photo.jpg"
-	myvkey="http://m.youtube.com/user/OscarOasisFullHD/videos"
-	mydesc="Oscar's Oasis"
-	/>
-	
 <myvideo
 	myid="1"
 	mytitle="Mr Bean"
