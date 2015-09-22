@@ -3,6 +3,14 @@
 
 <myvideo
 	myid="1"
+	mytitle="Na Tra Truyền Kỳ"
+	myurlthumb="http://i.ytimg.com/vi/HhnGOCaRzrc/default.jpg"
+	myvkey="http://m.youtube.com/playlist?list=PL3mxTBGp177EkC8uEXUqVOf3TOBrqGwv3"
+	mydesc="Na Tra Truyền Kỳ"
+	/>
+
+<myvideo
+	myid="1"
 	mytitle="Oscar's Oasis"
 	myurlthumb="http://yt3.ggpht.com/-aVU5Dym2rYI/AAAAAAAAAAI/AAAAAAAAAAA/sRR6KJYPVkw/s100-c-k-no/photo.jpg"
 	myvkey="http://m.youtube.com/user/avalocartoon"
