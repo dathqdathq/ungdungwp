@@ -3,6 +3,23 @@
 
 <myvideo
 	myid="1"
+	mytitle="Thủy thủ mặt trăng"
+	myurlthumb="http://i.ytimg.com/vi/OyfC37PocrQ/default.jpg"
+	myvkey="http://m.youtube.com/playlist?list=PL5EERb2C-HnBiKt6z9yBqZo6f_ZAzZUQn"
+	mydesc="Thủy thủ mặt trăng"
+	/>
+
+<myvideo
+	myid="1"
+	mytitle="Vua Pháp Thuật"
+	myurlthumb="http://i.ytimg.com/vi/OOKTwnFiKYk/default.jpg"
+	myvkey="http://m.youtube.com/playlist?list=PL5EERb2C-HnDeRA-T4AU7agP4Hl9FC3lM"
+	mydesc="Vua Pháp Thuật"
+	/>
+
+
+<myvideo
+	myid="1"
 	mytitle="Thất Kiếm Anh Hùng"
 	myurlthumb="http://i.ytimg.com/vi/p2G31sTnO7Y/default.jpg"
 	myvkey="http://m.youtube.com/playlist?list=PLfFnZrj_TqKQ2KKmwduZAtk5VtJAesZqG"
