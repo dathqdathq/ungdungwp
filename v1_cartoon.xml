@@ -3,6 +3,14 @@
 
 <myvideo
 	myid="1"
+	mytitle="Thất Kiếm Anh Hùng"
+	myurlthumb="http://i.ytimg.com/vi/p2G31sTnO7Y/default.jpg"
+	myvkey="http://m.youtube.com/playlist?list=PLfFnZrj_TqKQ2KKmwduZAtk5VtJAesZqG"
+	mydesc="Thất Kiếm Anh Hùng"
+	/>
+
+<myvideo
+	myid="1"
 	mytitle="Na Tra Truyền Kỳ"
 	myurlthumb="http://i.ytimg.com/vi/HhnGOCaRzrc/default.jpg"
 	myvkey="http://m.youtube.com/playlist?list=PL3mxTBGp177EkC8uEXUqVOf3TOBrqGwv3"
