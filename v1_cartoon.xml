@@ -3,6 +3,14 @@
 
 <myvideo
 	myid="1"
+	mytitle="Hiệp sĩ lợn"
+	myurlthumb="http://i.ytimg.com/vi/_LtkVRz1ZT4/default.jpg"
+	myvkey="http://m.youtube.com/watch?v=PecZm_tMVIk&list=PLroAsTKX1o5WEkeQYjfbBtOi7R4UA5kD9"
+	mydesc="Hiệp sĩ lợn"
+	/>
+
+<myvideo
+	myid="1"
 	mytitle="Thủy thủ mặt trăng"
 	myurlthumb="http://i.ytimg.com/vi/OyfC37PocrQ/default.jpg"
 	myvkey="http://m.youtube.com/playlist?list=PL5EERb2C-HnBiKt6z9yBqZo6f_ZAzZUQn"
