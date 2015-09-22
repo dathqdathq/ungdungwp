@@ -1,5 +1,30 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <mymenuvideo>
+	
+	<myvideo
+		myid="1"
+		mytitle=" Nursery Rhymes ABC TV"
+		myurlthumb="http://yt3.ggpht.com/-BPO6jTG7M2A/AAAAAAAAAAI/AAAAAAAAAAA/fyUDG8qy4Rk/s100-c-k-no/photo.jpg"
+		myvkey="http://m.youtube.com/channel/UCv7TYWhF5jhtuY3FDPf06Aw/featured"
+		mydesc="Best of baby"
+		/>
+	
+	<myvideo
+		myid="1"
+		mytitle="Kids Channel"
+		myurlthumb="http://yt3.ggpht.com/-08bC4ULIwPQ/AAAAAAAAAAI/AAAAAAAAAAA/71B5YHtofOw/s100-c-k-no/photo.jpg"
+		myvkey="http://m.youtube.com/channel/UC3KknIJZXRygH2pZ6MDtGbg"
+		mydesc="Best of baby"
+		/>
+	
+	<myvideo
+		myid="1"
+		mytitle="HooplaKidz TV"
+		myurlthumb="http://yt3.ggpht.com/-KWRYIA7c9zg/AAAAAAAAAAI/AAAAAAAAAAA/kut-rS4LEFU/s100-c-k-no/photo.jpg"
+		myvkey="http://m.youtube.com/user/HooplaKidzTv"
+		mydesc="Best of baby"
+		/>
+	
 	<myvideo
 		myid="1"
 		mytitle="CHU CHU TV"
