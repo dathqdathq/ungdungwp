@@ -1,5 +1,13 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <mymenuvideo>
+
+	<myvideo
+		myid="1"
+		mytitle="Baby First TV"
+		myurlthumb="http://yt3.ggpht.com/-jy2mm7NMW5o/AAAAAAAAAAI/AAAAAAAAAAA/SQnxxQNjgAY/s100-c-k-no/photo.jpg"
+		myvkey="https://www.youtube.com/user/BabyFirstTV"
+		mydesc="Best of baby"
+		/>
 	
 	<myvideo
 		myid="1"
