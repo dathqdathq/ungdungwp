@@ -3,9 +3,25 @@
 	
 	<myvideo
 		myid="1"
-		mytitle="ChuChuTV Surprise"
+		mytitle="Chu Chu TV Surprise"
 		myurlthumb="http://yt3.ggpht.com/-f_cE6oGlrOU/AAAAAAAAAAI/AAAAAAAAAAA/t1BaQiM8vi4/s100-c-k-no/photo.jpg"
 		myvkey="http://m.youtube.com/channel/UCKcQ7Jo2VAGHiPMfDwzeRUw"
+		mydesc="Best of baby"
+		/>
+
+	<myvideo
+		myid="1"
+		mytitle="Chu Chu TV Kids Songs"
+		myurlthumb="http://yt3.ggpht.com/-QHPC9emY_8c/AAAAAAAAAAI/AAAAAAAAAAA/03fPGkHcBbk/s100-c-k-no/photo.jpg"
+		myvkey="http://m.youtube.com/user/TheChuChuTV"
+		mydesc="Best of baby"
+		/>
+		
+	<myvideo
+		myid="1"
+		mytitle="Little Baby Bum"
+		myurlthumb="http://yt3.ggpht.com/-KLfbkE3zovQ/AAAAAAAAAAI/AAAAAAAAAAA/gMZ_6qxvEXw/s100-c-k-no/photo.jpg"
+		myvkey="http://m.youtube.com/user/LittleBabyBum"
 		mydesc="Best of baby"
 		/>
 		
@@ -97,22 +113,6 @@
 		mydesc="Best of baby"
 		/>
 	
-	<myvideo
-		myid="1"
-		mytitle="CHU CHU TV"
-		myurlthumb="http://yt3.ggpht.com/-QHPC9emY_8c/AAAAAAAAAAI/AAAAAAAAAAA/03fPGkHcBbk/s100-c-k-no/photo.jpg"
-		myvkey="http://m.youtube.com/user/TheChuChuTV"
-		mydesc="Best of baby"
-		/>
-		
-	<myvideo
-		myid="1"
-		mytitle="Little Baby Bum"
-		myurlthumb="http://yt3.ggpht.com/-KLfbkE3zovQ/AAAAAAAAAAI/AAAAAAAAAAA/gMZ_6qxvEXw/s100-c-k-no/photo.jpg"
-		myvkey="http://m.youtube.com/user/LittleBabyBum"
-		mydesc="Best of baby"
-		/>
-
 	<myvideo
 		myid="1"
 		mytitle="Kids TV"
