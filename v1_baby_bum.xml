@@ -3,9 +3,25 @@
 
 	<myvideo
 		myid="1"
+		mytitle="Learning For Children"
+		myurlthumb="http://yt3.ggpht.com/-RERxDKtEZ7c/AAAAAAAAAAI/AAAAAAAAAAA/K1AooJ9oB-o/s100-c-k-no/photo.jpg"
+		myvkey="http://m.youtube.com/user/coilbook"
+		mydesc="Best of baby"
+		/>
+		
+	<myvideo
+		myid="1"
+		mytitle="Toddler World TV"
+		myurlthumb="http://yt3.ggpht.com/-qMAZNNmYbo0/AAAAAAAAAAI/AAAAAAAAAAA/UNMnnj2SuAI/s100-c-k-no/photo.jpg"
+		myvkey="http://m.youtube.com/user/toddlerworldtv/videos"
+		mydesc="Best of baby"
+		/>
+		
+	<myvideo
+		myid="1"
 		mytitle="Baby First TV"
 		myurlthumb="http://yt3.ggpht.com/-jy2mm7NMW5o/AAAAAAAAAAI/AAAAAAAAAAA/SQnxxQNjgAY/s100-c-k-no/photo.jpg"
-		myvkey="https://www.youtube.com/user/BabyFirstTV"
+		myvkey="http://m.youtube.com/user/BabyFirstTV"
 		mydesc="Best of baby"
 		/>
 	
