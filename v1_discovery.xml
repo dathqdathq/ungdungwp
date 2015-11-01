@@ -182,21 +182,4 @@
     mydesc="VIDEOS HD-Thuyết minh"
   />
   
-    <myvideo
-    myid="8"
-    mytitle="Công nghệ tương lai"
-    myurlthumb="http://i.ytimg.com/vi/JKb3Ddh3oQk/default.jpg"
-    myvkey ="PLiiBa13ZLFn08vUQrddvRVtVzE3PYBpMm"
-    mydesc="VIDEOS HD-Thuyết minh"
-  />
-  
-   <myvideo
-    myid="9"
-    mytitle="Thiên nhiên hoan dã"
-    myurlthumb="http://i.ytimg.com/vi/l4LMDVmdqBM/default.jpg"
-    myvkey ="PLiiBa13ZLFn3TZrfkLnHS60DkpQzANaRZ"
-    mydesc="VIDEOS HD-Thuyết minh"
-  />
- 
-
-</mymenuvideo>
+ </mymenuvideo>
