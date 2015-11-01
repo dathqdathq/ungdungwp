@@ -16,15 +16,15 @@
 	myvkey="http://m.youtube.com/channel/UCwR8TMlstPROB3idhYIdd5g"
 	mydesc="HTV 60 giây"
 	/>
-
+	
 	<myvideo
 	myid="1"
-	mytitle="Truyền Hình ANTV"
-	myurlthumb="http://yt3.ggpht.com/-eae3lgWxS98/AAAAAAAAAAI/AAAAAAAAAAA/iIaBgEPj2go/s100-c-k-no/photo.jpg"
-	myvkey="http://m.youtube.com/channel/UCZH0MInzM_SQahQCU0j9_wg"
-	mydesc="Truyền Hình ANTV"
+	mytitle="KÊNH HTV"
+	myurlthumb="http://yt3.ggpht.com/-WI_J9A7kDMk/AAAAAAAAAAI/AAAAAAAAAAA/uEkLBu6iiv8/s100-c-k-no/photo.jpg"
+	myvkey="http://m.youtube.com/user/htvonlinetube/playlists"
+	mydesc="KÊNH HTV"
 	/>
-
+	
 	<myvideo
 	myid="1"
 	mytitle="Bản Tin 113 mới nhất"
@@ -44,19 +44,11 @@
 	<myvideo
 	myid="1"
 	mytitle="KÊNH - Phút giây cảnh giác"
-	myurlthumb="http://i.ytimg.com/vi/nKTyGsUGP6Y/default.jpg"
-	myvkey="http://m.youtube.com/channel/UCWLb4OYx7nQIHWIEntU6POg/feed"
+	myurlthumb="http://i.ytimg.com/vi/hDq7TjeGGNk/default.jpg"
+	myvkey="http://m.youtube.com/playlist?list=PLJSRfYQoW3dkB2x9KDC52b2aSRpj_2L1W"
 	mydesc="KÊNH - Phút giây cảnh giác"
 	/>
 
-	<myvideo
-	myid="1"
-	mytitle="KÊNH - Câu chuyện cảnh giác"
-	myurlthumb="http://i.ytimg.com/vi/Om71SKfu-30/default.jpg"
-	myvkey="http://m.youtube.com/channel/UC7g7qN_hH06diODPLlPPqKg/featured"
-	mydesc="KÊNH - Câu chuyện cảnh giác"
-	/>
-	
 	<myvideo
 	myid="1"
 	mytitle="Chuyện cảnh giác"
@@ -68,65 +60,10 @@
 	<myvideo
 	myid="1"
 	mytitle="Phút giây cảnh giác"
-	myurlthumb="http://i.ytimg.com/vi/nKTyGsUGP6Y/default.jpg"
-	myvkey="http://m.youtube.com/playlist?list=PLCNNYE9AS-HUvOMUCYGIN0YNWgE1tZrXs"
-	mydesc="(Phần 10)"
-	/>
-	
-	<myvideo
-	myid="1"
-	mytitle="Phút giây cảnh giác"
-	myurlthumb="http://i.ytimg.com/vi/06WAMz3I5TY/default.jpg"
-	myvkey="http://m.youtube.com/playlist?list=PLCNNYE9AS-HWQuFDkr96Hv-gFjCOGxjiN"
-	mydesc="(Phần 08)"
-	/>
-
-	<myvideo
-	myid="1"
-	mytitle="Phút giây cảnh giác "
-	myurlthumb="http://i.ytimg.com/vi/tWZKu6bcr28/default.jpg"
-	myvkey="http://m.youtube.com/playlist?list=PLvcJiA62tZN2k2-7trU36_6lfgm-tdCiE"
-	mydesc="(Phần 06)"
-	/>
-
-	<myvideo
-	myid="1"
-	mytitle="Phút giây cảnh giác"
-	myurlthumb="http://i.ytimg.com/vi/neSzMT32ras/default.jpg"
-	myvkey="http://m.youtube.com/playlist?list=PLvcJiA62tZN0vRxu18Fssg3Trb5PfoxSP"
-	mydesc="(Phần 05)"
-	/>
-	
-	<myvideo
-	myid="1"
-	mytitle="Phút giây cảnh giác"
 	myurlthumb="http://i.ytimg.com/vi/l_DF4UfzlPc/default.jpg"
 	myvkey="http://m.youtube.com/playlist?list=PLyz_Vyoww4CiMLSHuIQYtH-wdjpCK3vf3"
-	mydesc="(Phần 04)"
+	mydesc="Phút giây cảnh giác"
 	/>
-	
-	<myvideo
-	myid="1"
-	mytitle="Phút giây cảnh giác"
-	myurlthumb="http://i.ytimg.com/vi/WPGKHNTnwLc/default.jpg"
-	myvkey="http://m.youtube.com/playlist?list=PLPxar1mkfg-QGOcRxoCy91bJ01Vp9kyHT"
-	mydesc="(Phần 03)"
-	/>
-	
-	<myvideo
-	myid="1"
-	mytitle="Phút giây cảnh giác"
-	myurlthumb="http://i.ytimg.com/vi/ocpjuF3uB60/default.jpg"
-	myvkey="http://m.youtube.com/playlist?list=PLC5mVgUUx368Njy5NKktgH6Od85xCHzFv"
-	mydesc="(Phần 02)"
-	/>
-	
-	<myvideo
-	myid="1"
-	mytitle="Phút giây cảnh giác"
-	myurlthumb="http://i.ytimg.com/vi/PJ78cyMyYWs/default.jpg"
-	myvkey="http://m.youtube.com/playlist?list=PLC5mVgUUx36__9Rce0DD0koe4Fyqpt3zU"
-	mydesc="(Phần 01)"
-	/>
+
 
 </mymenuvideo>
