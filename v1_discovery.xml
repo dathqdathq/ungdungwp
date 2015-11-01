@@ -62,28 +62,6 @@
 	myvkey="http://m.youtube.com/user/universe7444/featured"
 	mydesc="Khám phá thế giới - HD"
 	/>
-
-	<myvideo
-	myid="1"
-	mytitle="Hồ sơ mật"
-	myurlthumb="http://i.ytimg.com/vi/KczMae4Qhf4/default.jpg"
-	myvkey="http://m.youtube.com/playlist?list=PLiiBa13ZLFn3leEWgK2uVLNLMO_xq8OYZ"
-	mydesc="VIDEOS HD-Thuyết minh (mới)"
-	/>
-	<myvideo
-	myid="1"
-	mytitle="Bí ẩn đại dương"
-	myurlthumb="http://i.ytimg.com/vi/nF-c2qYoHmA/default.jpg"
-	myvkey="http://m.youtube.com/playlist?list=PLiiBa13ZLFn0yPf_q9fUWxGlK8FQttYJl"
-	mydesc="VIDEOS HD-Thuyết minh (mới)"
-	/>
-	<myvideo
-	myid="1"
-	mytitle="Vẻ đẹp của tự nhiên"
-	myurlthumb="http://i.ytimg.com/vi/m6HppcNJ4bE/default.jpg"
-	myvkey="http://m.youtube.com/playlist?list=PLiiBa13ZLFn2cm9HyAWBP-k6HMpkZ8DNb"
-	mydesc="VIDEOS HD-Thuyết minh (mới)"
-	/>
 	<myvideo
 	myid="1"
 	mytitle="Chuyện về những con tàu đắm"
@@ -107,15 +85,6 @@
 	myvkey="http://m.youtube.com/playlist?list=PLiiBa13ZLFn2B6zF7PnX2_aOPibZ29Vvq"
 	mydesc="VIDEOS HD-Thuyết minh"
 	/>
-
-	<myvideo
-	myid="1"
-	mytitle="Thiên nhiên nổi giận"
-	myurlthumb="http://i.ytimg.com/vi/3W_XQuWT_XI/default.jpg"
-	myvkey="http://m.youtube.com/playlist?list=PLiiBa13ZLFn1BEZ2l4rClunFJStINe5RC"
-	mydesc="VIDEOS HD-Thuyết minh"
-	/>
-
 	<myvideo
 	myid="1"
 	mytitle="Tin tức cập nhật"
@@ -139,15 +108,6 @@
 	myvkey="http://m.youtube.com/playlist?list=PLiiBa13ZLFn3R3Pg4408aVgcH1lD5gjwc"
 	mydesc="VIDEOS HD-Thuyết minh"
 	/>
-
-	<myvideo
-	myid="1"
-	mytitle="Những dòng sông của thế giới"
-	myurlthumb="http://i.ytimg.com/vi/PrDuJJ18s5o/default.jpg"
-	myvkey="http://m.youtube.com/playlist?list=PLiiBa13ZLFn2ZvQawRTt3fyjoG6Q29YCB"
-	mydesc="VIDEOS HD-Thuyết minh"
-	/>
-
 	<myvideo
 	myid="1"
 	mytitle="Những di sản của quá khứ"
@@ -206,28 +166,11 @@
     mydesc="VIDEOS HD-Thuyết minh"
   />
 
-  
-  <myvideo
-    myid="3"
-    mytitle="Phim tài liệu nước ngoài"
-    myurlthumb="http://i.ytimg.com/vi/JdzkgtYdjTs/default.jpg"
-    myvkey="http://m.youtube.com/playlist?list=PLiiBa13ZLFn1WgCd_eiCThYwZ5a02BoUd"
-    mydesc="VIDEOS HD-Thuyết minh"
-  />
-  
   <myvideo
     myid="4"
     mytitle="Những ngành khoa học tiên phong"
     myurlthumb="http://i.ytimg.com/vi/CBoYsan-6P8/default.jpg"
     myvkey="http://m.youtube.com/playlist?list=PLiiBa13ZLFn2COQS3Y4XlQu3O6GWIsY44"
-    mydesc="VIDEOS HD-Thuyết minh"
-  />
-
-  <myvideo
-    myid="5"
-    mytitle="Con người và thiên nhiên"
-    myurlthumb="http://i.ytimg.com/vi/hW2D24R_c8E/default.jpg"
-    myvkey ="PLiiBa13ZLFn1cYeStWtziYCHsFqNjr8e6"
     mydesc="VIDEOS HD-Thuyết minh"
   />
 
