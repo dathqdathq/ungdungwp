@@ -3,8 +3,8 @@
 <myflag
 	mysmall="1"
 	myfull="1"
-	myfull_p1="1"
-	myfull_p2="1"
+	myfull_p1="0"
+	myfull_p2="0"
 	myurl="http://google.com"
 	mytxt="emoji"
 	/>
