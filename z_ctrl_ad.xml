@@ -5,7 +5,7 @@
 	myfull="0"
 	myfull_p1="0"
 	myfull_p2="0"
-	myurl=""
-	mytxt=""
+	myurl="http://google.com"
+	mytxt="emoji"
 	/>
 </mycontrol>
