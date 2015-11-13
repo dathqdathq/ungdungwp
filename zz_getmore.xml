@@ -8,6 +8,19 @@
 	myvkey="http://www.microsoft.com/store/apps/9NBLGGGZ8XBL"
 	mydesc="Artist"
 	/>
-			
+<myapp
+	myid="2"
+	mytitle="Photo frame cute 1"
+	myurlthumb="http://i.ytimg.com/vi/rCn_SVo0ZqE/default.jpg"
+	myvkey="http://www.microsoft.com/store/apps/9NBLGGGZ8XBL"
+	mydesc="Artist 1"
+	/>	
+<myapp
+	myid="3"
+	mytitle="Photo frame cute 3"
+	myurlthumb="http://i.ytimg.com/vi/rCn_SVo0ZqE/default.jpg"
+	myvkey="http://www.microsoft.com/store/apps/9NBLGGGZ8XBL"
+	mydesc="Artist 3"
+	/>				
 	
 </mymoreapp>
