@@ -3,66 +3,10 @@
 	
 <myapp
 	myid="1"
-	mytitle="Photo frame cute"
-	myurlthumb="http://i.ytimg.com/vi/rCn_SVo0ZqE/default.jpg"
-	myvkey="http://www.microsoft.com/store/apps/9NBLGGGZ8XBL"
-	mydesc="Artist"
+	mytitle="emoticon messages"
+	myurlthumb="http://store-images.s-microsoft.com/image/apps.26002.13510798886602886.168b789b-56c8-4a19-b4b8-2d28138b94b2.7b715d17-34d1-4e03-abd2-f6b494f81f0c?w=191&h=191"
+	myvkey="http://www.microsoft.com/store/apps/9nblggh6c6fw"
+	mydesc="emoticon messages"
 	/>
-<myapp
-	myid="2"
-	mytitle="Photo frame cute 1"
-	myurlthumb="http://i.ytimg.com/vi/rCn_SVo0ZqE/default.jpg"
-	myvkey="http://www.microsoft.com/store/apps/9NBLGGGZ8XBL"
-	mydesc="Artist 1"
-	/>	
-<myapp
-	myid="3"
-	mytitle="Photo frame cute 3"
-	myurlthumb="http://i.ytimg.com/vi/rCn_SVo0ZqE/default.jpg"
-	myvkey="http://www.microsoft.com/store/apps/9NBLGGGZ8XBL"
-	mydesc="Artist 3"
-	/>
-<myapp
-	myid="1"
-	mytitle="Photo frame cute"
-	myurlthumb="http://i.ytimg.com/vi/rCn_SVo0ZqE/default.jpg"
-	myvkey="http://www.microsoft.com/store/apps/9NBLGGGZ8XBL"
-	mydesc="Artist"
-	/>
-<myapp
-	myid="2"
-	mytitle="Photo frame cute 1"
-	myurlthumb="http://i.ytimg.com/vi/rCn_SVo0ZqE/default.jpg"
-	myvkey="http://www.microsoft.com/store/apps/9NBLGGGZ8XBL"
-	mydesc="Artist 1"
-	/>	
-<myapp
-	myid="3"
-	mytitle="Photo frame cute 3"
-	myurlthumb="http://i.ytimg.com/vi/rCn_SVo0ZqE/default.jpg"
-	myvkey="http://www.microsoft.com/store/apps/9NBLGGGZ8XBL"
-	mydesc="Artist 3"
-	/>
-<myapp
-	myid="1"
-	mytitle="Photo frame cute"
-	myurlthumb="http://i.ytimg.com/vi/rCn_SVo0ZqE/default.jpg"
-	myvkey="http://www.microsoft.com/store/apps/9NBLGGGZ8XBL"
-	mydesc="Artist"
-	/>
-<myapp
-	myid="2"
-	mytitle="Photo frame cute 1"
-	myurlthumb="http://i.ytimg.com/vi/rCn_SVo0ZqE/default.jpg"
-	myvkey="http://www.microsoft.com/store/apps/9NBLGGGZ8XBL"
-	mydesc="Artist 1"
-	/>	
-<myapp
-	myid="3"
-	mytitle="Photo frame cute 3"
-	myurlthumb="http://i.ytimg.com/vi/rCn_SVo0ZqE/default.jpg"
-	myvkey="http://www.microsoft.com/store/apps/9NBLGGGZ8XBL"
-	mydesc="Artist 3"
-	/>	
-	
+
 </mymoreapp>
