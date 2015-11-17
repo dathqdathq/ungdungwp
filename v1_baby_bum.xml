@@ -3,6 +3,14 @@
 	
 	<myvideo
 		myid="1"
+		mytitle="Lottie Dottie"
+		myurlthumb="http://yt3.ggpht.com/-ormQAubHkiE/AAAAAAAAAAI/AAAAAAAAAAA/_RDOsvjn-qw/s100-c-k-no/photo.jpg"
+		myvkey="http://m.youtube.com/user/DottieChicken"
+		mydesc="Lottie Dottie"
+		/>
+		
+	<myvideo
+		myid="1"
 		mytitle="Mother Goose Club"
 		myurlthumb="http://yt3.ggpht.com/-CjtfMnhAf90/AAAAAAAAAAI/AAAAAAAAAAA/9x0cv1cw3-8/s100-c-k-no/photo.jpg"
 		myvkey="http://m.youtube.com/user/MotherGooseClub"
