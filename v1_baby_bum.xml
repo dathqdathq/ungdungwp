@@ -3,6 +3,14 @@
 	
 	<myvideo
 		myid="1"
+		mytitle="Mother Goose Club"
+		myurlthumb="http://yt3.ggpht.com/-CjtfMnhAf90/AAAAAAAAAAI/AAAAAAAAAAA/9x0cv1cw3-8/s100-c-k-no/photo.jpg"
+		myvkey="http://m.youtube.com/user/MotherGooseClub"
+		mydesc="Best of baby"
+		/>
+	
+	<myvideo
+		myid="1"
 		mytitle="Dave and Ava"
 		myurlthumb="http://yt3.ggpht.com/-CTsoKK460BI/AAAAAAAAAAI/AAAAAAAAAAA/eHHeHP6JAgs/s100-c-k-no/photo.jpg"
 		myvkey="http://m.youtube.com/channel/UC6zhI71atP7YLoZyIyCIGNw/featured"
