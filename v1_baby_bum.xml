@@ -3,6 +3,14 @@
 	
 	<myvideo
 		myid="1"
+		mytitle="Dave and Ava"
+		myurlthumb="http://yt3.ggpht.com/-CTsoKK460BI/AAAAAAAAAAI/AAAAAAAAAAA/eHHeHP6JAgs/s100-c-k-no/photo.jpg"
+		myvkey="http://m.youtube.com/channel/UC6zhI71atP7YLoZyIyCIGNw/featured"
+		mydesc="Nursery Rhymes and Baby Songs"
+		/>
+	
+	<myvideo
+		myid="1"
 		mytitle="Chu Chu TV Surprise"
 		myurlthumb="http://yt3.ggpht.com/-f_cE6oGlrOU/AAAAAAAAAAI/AAAAAAAAAAA/t1BaQiM8vi4/s100-c-k-no/photo.jpg"
 		myvkey="http://m.youtube.com/channel/UCKcQ7Jo2VAGHiPMfDwzeRUw"
