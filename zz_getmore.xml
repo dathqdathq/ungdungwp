@@ -3,11 +3,17 @@
 	
 <myapp
 	myid="1"
-	mytitle="emoticon messages"
+	mytitle="Photo frame cute"
 	myurlthumb="http://i.ytimg.com/vi/rCn_SVo0ZqE/default.jpg"
-	myvkey="http://microsoft.com/store/apps/9nblggh6c6fw"
-	mydesc="emoticon messages"
+	myvkey="http://microsoft.com/store/apps/9nblggh68v0s"
+	mydesc="Chủ đề: tình yêu, hình cưới, lãng mạn..."
 	/>
-	
+<myapp
+	myid="2"
+	mytitle="Photo frame christmas"
+	myurlthumb="http://i.ytimg.com/vi/rCn_SVo0ZqE/default.jpg"
+	myvkey="http://microsoft.com/store/apps/9nblggh68tzx"
+	mydesc="Chủ đề giáng sinh(Noel)"
+	/>	
 	
 </mymoreapp>
