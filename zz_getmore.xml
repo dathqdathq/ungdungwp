@@ -15,5 +15,14 @@
 	myvkey="http://microsoft.com/store/apps/9nblggh68tzx"
 	mydesc="Chủ đề giáng sinh(Noel)"
 	/>	
+
+<myapp
+	myid="2"
+	mytitle="Photo frame valentine"
+	myurlthumb="http://i.ytimg.com/vi/rCn_SVo0ZqE/default.jpg"
+	myvkey="http://microsoft.com/en-gb/store/apps/photo-frame-valentine/9nblggh69nss"
+	mydesc="Chủ đề tình yêu"
+	/>	
+	
 	
 </mymoreapp>
