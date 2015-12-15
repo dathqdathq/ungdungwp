@@ -3,6 +3,22 @@
 
 <myvideo
 	myid="1"
+	mytitle="DOREMON - FULL HD"
+	myurlthumb="http://i.ytimg.com/vi/qtcrQ5vdKKk/mqdefault.jpg"
+	myvkey="http://m.youtube.com/playlist?list=PL5EERb2C-HnC2bAW3adjqw8aZGmQVcOml"
+	mydesc="DOREMON - FULL HD"
+	/>
+
+<myvideo
+	myid="1"
+	mytitle="ANIME"
+	myurlthumb="http://i.ytimg.com/vi/OOKTwnFiKYk/mqdefault.jpg"
+	myvkey="http://m.youtube.com/playlist?list=PL5EERb2C-HnDeRA-T4AU7agP4Hl9FC3lM"
+	mydesc="ANIME"
+	/>
+
+<myvideo
+	myid="1"
 	mytitle="Hiệp sĩ lợn"
 	myurlthumb="http://i.ytimg.com/vi/_LtkVRz1ZT4/default.jpg"
 	myvkey="http://m.youtube.com/playlist?list=PLroAsTKX1o5WEkeQYjfbBtOi7R4UA5kD9"
