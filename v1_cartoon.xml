@@ -3,6 +3,14 @@
 
 <myvideo
 	myid="1"
+	mytitle="Làng Xì Trum"
+	myurlthumb="http://i.ytimg.com/vi/WbFcA4MBClE/default.jpg"
+	myvkey="http://m.youtube.com/playlist?list=PLuYhEUMXUFqaTnciSoRy2pS5ZhifQO9kv"
+	mydesc="Làng Xì Trum"
+	/>
+
+<myvideo
+	myid="1"
 	mytitle="DOREMON - FULL HD"
 	myurlthumb="http://yt3.ggpht.com/-hfJCOhC-M6o/AAAAAAAAAAI/AAAAAAAAAAA/QWq961gByS8/s100-c-k-no/photo.jpg"
 	myvkey="http://m.youtube.com/playlist?list=PL5EERb2C-HnC2bAW3adjqw8aZGmQVcOml"
