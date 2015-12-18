@@ -11,6 +11,22 @@
 	
 	<myvideo
 		myid="1"
+		mytitle="Christmas Kids Songs and Carols"
+		myurlthumb="http://i.ytimg.com/vi/jovyVD1MLlY/default.jpg"
+		myvkey="http://m.youtube.com/watch?v=jovyVD1MLlY&list=PLJV1-yHHw1hICiDvhZ4X4rHHTxA2gMfeL"
+		mydesc="Christmas Kids Songs and Carols"
+		/>
+	
+	<myvideo
+		myid="1"
+		mytitle="eDewcate"
+		myurlthumb="http://yt3.ggpht.com/-IA9QoDQVAy0/AAAAAAAAAAI/AAAAAAAAAAA/DhjHjaxaGlo/s100-c-k-no/photo.jpg"
+		myvkey="http://m.youtube.com/user/eDewcate/featured"
+		mydesc="eDewcate"
+		/>
+	
+	<myvideo
+		myid="1"
 		mytitle="Official Everything Rosie"
 		myurlthumb="http://yt3.ggpht.com/-3GafxZIL_Og/AAAAAAAAAAI/AAAAAAAAAAA/iZH27AzsBOk/s100-c-k-no/photo.jpg"
 		myvkey="http://m.youtube.com/user/everythingsrosietv"
