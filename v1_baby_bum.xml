@@ -3,10 +3,10 @@
 	
 	<myvideo
 		myid="1"
-		mytitle="Top 50 Christmas Songs"
-		myurlthumb="http://i.ytimg.com/vi/eQ34DSTjsLQ/default.jpg"
-		myvkey="http://m.youtube.com/playlist?list=PLA-vix1dc3M6VOf5MgK1KkWHtxMX1_58j"
-		mydesc="Top 50 Christmas Songs"
+		mytitle="Jingle Bells Christmas Songs"
+		myurlthumb="http://i.ytimg.com/vi/xXyrdPkhwSE/default.jpg"
+		myvkey="http://m.youtube.com/watch?v=xXyrdPkhwSE&list=RDxXyrdPkhwSE#t=240"
+		mydesc="Jingle Bells Christmas Songs"
 		/>
 	
 	<myvideo
