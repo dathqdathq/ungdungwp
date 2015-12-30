@@ -3,6 +3,13 @@
 
 <myapp
 	myid="6"
+	mytitle="NEW APP: GUN SOUND FREE"
+	myurlthumb="http://i.ytimg.com/vi/rCn_SVo0ZqE/default.jpg"
+	myvkey="https://www.microsoft.com/store/apps/9nblggh5dc8g"
+	mydesc="tiếng súng, gun sound"
+	/>
+<myapp
+	myid="6"
 	mytitle="NEW APP: Animal sound animal"
 	myurlthumb="http://i.ytimg.com/vi/rCn_SVo0ZqE/default.jpg"
 	myvkey="http://www.microsoft.com/store/apps/9nblggh6fk00"
