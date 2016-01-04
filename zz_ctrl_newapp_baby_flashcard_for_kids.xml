@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <mycontrol>
 <myflag
-	myon="0"
-	mykey="001122"
+	myon="1"
+	mykey="GS001ABC"
 	mymsg="Chúng tôi xin giới thiệu app mới:\nANIMAL SOUND ANIMAL"
 	myurl="https://www.microsoft.com/store/apps/9nblggh6fk00"
 	myappid="9nblggh6fk00"
