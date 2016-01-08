@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <mycontrol>
 <myflag
-	myon="0"
-	mykey="001122"
-	mymsg="Chúng tôi xin giới thiệu app mới:\nANIMAL SOUND ANIMAL"
-	myurl="https://www.microsoft.com/store/apps/9nblggh6fk00"
-	myappid="9nblggh6fk00"
+	myon="1"
+	mykey="AABBCC00"
+	mymsg="Giới thiệu app mới:\nBaby flashcard for kids\nPhù hợp cho bé học tiếng anh."
+	myurl="https://www.microsoft.com/store/apps/9nblggh5k0vq"
+	myappid="9nblggh5k0vq"
 	/>
 </mycontrol>
