@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <mycontrol>
 <myflag
-	myon="0"
-	mykey="AAABBB111XYZ"
-	mymsg="Ứng dụng mới:\nANIMAL SOUND ANIMAL - TIẾNG ĐỘNG VẬT VUI NHỘN "
-	myurl="https://www.microsoft.com/store/apps/9nblggh6fk00"
-	myappid="9nblggh6fk00"
-	mynumclick="20"
+myon="1"
+	mykey="BHV0001"
+	mymsg="BÉ HỌC VẦN\nỨng dụng học chữ cái và vần cho bé."
+	myurl="https://www.microsoft.com/store/apps/9nblggh4p0w4"
+	myappid="9nblggh4p0w4"
+	mynumclick="10"
 	/>
 </mycontrol>
