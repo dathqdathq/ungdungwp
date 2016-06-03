@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<mycontrol>
+<myflag
+	id_p0="0"
+	code_p0="PLDt4VQajKv8zYrZxZwjWDfii4rQPCB-XE"
+	title_p0="ABC"
+
+	id_p1="1"
+	code_p1="PLDt4VQajKv8znfOD01nev2ZG9WiozVZd0"
+	title_p1="ABC Song"
+
+	id_p2="2"
+	code_p2="PLDt4VQajKv8zfvseXEQ-XzKBUrEl0OXuF"
+	title_p2="Number song"
+
+	id_p3="3"
+	code_p3="PL0VE_cI7-AYS_GZaiJwetoT1LbYqEuwGH"
+	title_p3="Animal song"
+
+	id_p4="4"
+	code_p4="PL0VE_cI7-AYT-D5knBUeSOh8d9C6DC3qE"
+	title_p4="Wheels On The Bus"
+
+	id_p5="5"
+	code_p5="PLDt4VQajKv8wh3NVtQeO_q0ajSg83Byt0"
+	title_p5="Colors"
+
+	id_p6="6"
+	code_p6="PLDt4VQajKv8x307ydEnbPGvs3jwPPBBMu"
+	title_p6="Shapes Songs"
+
+	id_p7="7"
+	code_p7="PL0VE_cI7-AYTzBmhpILrTz9NZTZXfJpju"
+	title_p7="Action Songs for Children!"
+
+	id_p8="8"
+	code_p8="PL36053D3415FB9CA6"
+	title_p8="Nursery Rhymes - the best"
+
+	id_p9="9"
+	code_p9="PLDt4VQajKv8wer4hwLo6lmwKj2hIkz9fU"
+	title_p9="Happy Birthday Songs"
+
+	id_p10="10"
+	code_p10="PLzAVL_ayaL5Q2zlwC3kluDjkYPyHKhTDg"
+	title_p10="Pop music"
+/>
+</mycontrol>
