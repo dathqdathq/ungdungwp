@@ -1,6 +1,13 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <mycontrol>
 <myflag
+
+	ads_flag="0"
+	num_click="5"
+	newapp_flag="1"
+	newapp_url=""
+	newapp_msg=""
+
 	id_p0="0"
 	code_p0="PLDt4VQajKv8zYrZxZwjWDfii4rQPCB-XE"
 	title_p0="ABC11"
