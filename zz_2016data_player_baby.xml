@@ -5,6 +5,7 @@
 	ads_flag="1"
 	num_click="5"
 	newapp_flag="1"
+	newapp_key="abc"
 	newapp_url=""
 	newapp_msg=""
 
