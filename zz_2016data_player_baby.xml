@@ -6,8 +6,9 @@
 	num_click="5"
 	newapp_flag="1"
 	newapp_key="abc"
-	newapp_url=""
-	newapp_msg=""
+	new_appid="9nblggh5k0vq"
+	newapp_url="https://www.microsoft.com/store/apps/9nblggh5k0vq"
+	newapp_msg="Giới thiệu app mới:\nBaby flashcard for kids\nPhù hợp cho bé học tiếng anh"
 
 	id_p0="0"
 	code_p0="PLDt4VQajKv8zYrZxZwjWDfii4rQPCB-XE"
