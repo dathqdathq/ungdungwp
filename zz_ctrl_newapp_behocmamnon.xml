@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <mycontrol>
 <myflag
-myon="1"
+	myon="1"
 	mykey="BHV00022"
-	mymsg="BÉ HỌC VẦN\nỨng dụng học chữ cái và vần cho bé."
-	myurl="https://www.microsoft.com/store/apps/9nblggh4p0w4"
-	myappid="9nblggh4p0w4"
+	mykey="BABA0022"
+	mymsg="ENGLISH BABY KIDS TV\nỨng dụng giúp bé học vui\nVới những VIDEO HỌC vui nhộn TIẾNG ANH."
+	myurl="https://www.microsoft.com/store/apps/9nblggh4w7nx"
+	myappid="9nblggh4w7nx"
 	mynumclick="10"
 	/>
 </mycontrol>
