@@ -2,49 +2,49 @@
 <mycontrol>
 <myflag
 
-	ads_flag="1"
+	ads_flag="0"
 	num_click="5"
-	newapp_flag="0"
+	newapp_flag="1"
 	newapp_key="sss"
 	newapp_id="9nblggh5k0vq"
 	newapp_url="https://www.microsoft.com/store/apps/9nblggh5k0vq"
 	newapp_msg="Giới thiệu app mới:\nBaby flashcard for kids\nPhù hợp cho bé học tiếng anh"
 
 	id_p0="0"
-	code_p0="PLii5rkhsE0LcUyqqaT86JlnkuRnjKXw1F"
-	title_p0="ABC Alphabet and Words"
+	code_p0="PLYzr3Vg8woe0o8sR8IOTuRNZhgp3nifNz"
+	title_p0="ABC songs"
 
 	id_p1="1"
-	code_p1="PLii5rkhsE0LeIi1U-PJZ2s1inRgnzjggR"
-	title_p1="Story"
+	code_p1="PLYzr3Vg8woe1QX4dZ8ix4MtaQCpSRZKAJ"
+	title_p1="Learn numbers"
 
 	id_p2="2"
-	code_p2="PLii5rkhsE0LedHLS6IYgYp2pohIBIDzrw"
-	title_p2="Alien Bob Crew (ABC)"
+	code_p2="PLYzr3Vg8woe23g_8l7zOzEcbXw6sfBsm1"
+	title_p2="Learn Colors"
 
 	id_p3="3"
-	code_p3="PLii5rkhsE0Ld3xCgxG6j5fw7RlG2S5czO"
-	title_p3="Dialogue | Lets Role-play"
+	code_p3="PLYzr3Vg8woe2LrDeBVK0J0Zp1RankyJdX"
+	title_p3="Learn Animals"
 
 	id_p4="4"
-	code_p4="PLii5rkhsE0LdLIVU8_SxHpEXOHvnYENtP"
-	title_p4="Nursery Rhymes"
+	code_p4="PLBE33C1412A7E9E7A"
+	title_p4="Math Songs"
 
 	id_p5="5"
-	code_p5="PLii5rkhsE0LfdEA-fCg3qii9hI3LlgGTO"
-	title_p5="Listen and Repeat"
+	code_p5="PLYzr3Vg8woe0udNBHdPQnRl6gs8uKkXpq"
+	title_p5="Days of the Week Songs"
 
 	id_p6="6"
 	code_p6="PLii5rkhsE0LfXbq3CnoZZNDdb8-WaQzFa"
 	title_p6="Phonics | Learn English A to Z"
 
 	id_p7="7"
-	code_p7="PLii5rkhsE0Lc5f1FhF8l-QSDo7XO-0FkG"
-	title_p7="Cartoon Story | Basic Dialogue"
+	code_p7="PLYzr3Vg8woe1Z3TmAV6hnl6UNgpf9cN-E"
+	title_p7="Food and Health"
 
 	id_p8="8"
-	code_p8="PLii5rkhsE0LeJJjppp5TGwxyp22Dg2962"
-	title_p8="Special Song | Christmas Carol"
+	code_p8="PLYzr3Vg8woe3yMmzyRmIObCOnmF2E9fcI"
+	title_p8="Weather, Time, 123s and more"
 
 	id_p9="9"
 	code_p9="PLii5rkhsE0LdtTknIAU8v6L1AO5A2l8pE"
